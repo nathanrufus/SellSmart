@@ -19,6 +19,18 @@ import from src.services.util { ord_to_iso, round2, median }
 # Plain functions behind the endpoints. Kept free of HTTP so they are easy to
 # test and reuse. Every function returns plain dicts.
 
+def _by_name(d: dict[str, any]) -> str {
+    return str(d["name"]);
+}
+
+def _by_market(d: dict[str, any]) -> str {
+    return str(d["market"]);
+}
+
+def _by_created(r: AdviceRecord) -> str {
+    return r.created_at;
+}
+
 glob _BT_CACHE: dict[str, dict[str, any]] = {};
 
 def err(code: str, message: str, extra: dict[str, any] = {}) -> dict[str, any] {
@@ -78,7 +90,7 @@ def list_products() -> dict[str, any] {
             "last_day": ord_to_iso(max(days)) if len(days) > 0 else ""
         });
     }
-    return {"ok": True, "products": sorted(out, key=lambda d: dict : str(d["name"]))};
+    return {"ok": True, "products": sorted(out, key=_by_name)};
 }
 
 # Search every product KAMIS lists (not only the ones downloaded) by name.
@@ -133,7 +145,7 @@ def list_markets(product: str, county: str = "", window_days: int = 30) -> dict[
             "supply_median": s.supply_median, "excluded_reason": s.excluded_reason
         });
     }
-    rows = sorted(rows, key=lambda d: dict : str(d["market"]));
+    rows = sorted(rows, key=_by_market);
     return {"ok": True, "product": pname, "as_of": ord_to_iso(as_of), "window_days": window_days, "count": len(rows), "markets": rows};
 }
 
@@ -291,7 +303,7 @@ def trace_for(request_id: str) -> dict[str, any] {
 }
 
 def recent_requests(limit: int = 10) -> dict[str, any] {
-    recs = sorted([r for r in [root -->][?:AdviceRecord]], key=lambda r: AdviceRecord : r.created_at, reverse=True);
+    recs = sorted([r for r in [root -->][?:AdviceRecord]], key=_by_created, reverse=True);
     return {"ok": True, "requests": [
         {"request_id": r.request_id, "question": r.question, "created_at": r.created_at,
          "status": r.payload.get("status", ""), "confidence": r.payload.get("confidence", "")}

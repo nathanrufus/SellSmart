@@ -4,6 +4,14 @@ import from src.services.transport { road_distance_km, cost_per_kg }
 import from src.services.aliases { county_cfg_by_name }
 import from src.services.util { round2 }
 
+def _by_net_desc(q: NetQuote) -> float {
+    return -q.net_per_kg;
+}
+
+def _by_distance(q: NetQuote) -> float {
+    return q.distance_km;
+}
+
 def build_quote(
     stat: MarketStat,
     origin: CountyCfg | None,
@@ -40,7 +48,7 @@ def build_quote(
 def rank_quotes(quotes: list[NetQuote]) -> list[NetQuote] {
     usable = [q for q in quotes if q.excluded_reason == ""];
     excluded = [q for q in quotes if q.excluded_reason != ""];
-    usable_sorted = sorted(usable, key=lambda q: NetQuote : -q.net_per_kg);
+    usable_sorted = sorted(usable, key=_by_net_desc);
     return usable_sorted + excluded;
 }
 
@@ -49,5 +57,5 @@ def nearest_quote(quotes: list[NetQuote]) -> NetQuote | None {
     if len(usable) == 0 {
         return None;
     }
-    return sorted(usable, key=lambda q: NetQuote : q.distance_km)[0];
+    return sorted(usable, key=_by_distance)[0];
 }

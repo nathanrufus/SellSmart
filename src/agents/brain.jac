@@ -1,6 +1,7 @@
 import os;
 import re;
-import from byllm.lib { Model }
+import from jaclang.byllm.lib { Model }
+import from src.services.envfile { load_dotenv }
 
 # All LLM calls live here (byLLM). Three agents use them:
 #   planner  -> llm_extract       question to a structured plan
@@ -14,7 +15,12 @@ import from byllm.lib { Model }
 #   SOKO_USE_LLM=1 (default) or 0     SOKO_MODEL=claude-sonnet-4-6 (any LiteLLM model name)
 #   ANTHROPIC_API_KEY / OPENAI_API_KEY / GEMINI_API_KEY for the matching provider
 
-glob llm: any = Model(model_name=os.environ.get("SOKO_MODEL", "claude-sonnet-4-6"));
+with entry {
+    load_dotenv();
+}
+
+# Loads KEY=value lines from <project>/.env into the environment (existing
+# variables win), so keys never live in code. Runs before the model is built.
 def load_dotenv_file() {
     path = os.path.join(os.environ.get("SOKO_HOME", os.getcwd()), ".env");
     if not os.path.exists(path) {
@@ -39,10 +45,7 @@ with entry {
     load_dotenv_file();
 }
 
-def use_model(m: any) {
-    global llm ;
-    llm = m;
-}
+glob llm: any = Model(model_name=os.environ.get("SOKO_MODEL", "claude-sonnet-4-6"));
 
 def llm_enabled() -> bool {
     return os.environ.get("SOKO_USE_LLM", "1") != "0";

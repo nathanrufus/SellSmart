@@ -67,7 +67,8 @@ def reset_graph() {
 
 def _county_node(name: str, cache: dict[str, County]) -> County {
     if name not in cache {
-        node_c = (root ++> County(name=name))[0];
+        node_c = County(name=name);
+        root ++> node_c;
         cache[name] = node_c;
     }
     return cache[name];
@@ -88,7 +89,8 @@ def load_graph() -> GraphMeta {
         if pname == "" or not isinstance(rows, list) {
             continue;
         }
-        pnode = (root ++> Product(name=pname))[0];
+        pnode = Product(name=pname);
+        root ++> pnode;
         by_market: dict[str, list[PriceRec]] = {};
         county_of: dict[str, str] = {};
         for row_any in rows {
@@ -110,10 +112,12 @@ def load_graph() -> GraphMeta {
             parts = key.split("||");
             mname = parts[0];
             cname = county_of[key];
-            lnode = (pnode +>:Lists():+> Listing(product=pname, market=mname, county=cname, recs=by_market[key]))[0];
+            lnode = Listing(product=pname, market=mname, county=cname, recs=by_market[key]);
+            pnode +>:Lists():+> lnode;
             mk = mname + "||" + cname;
             if mk not in markets {
-                mnode = (root ++> Market(name=mname))[0];
+                mnode = Market(name=mname);
+                root ++> mnode;
                 markets[mk] = mnode;
                 cn = _county_node(cname, counties);
                 mnode +>:LocatedIn():+> cn;

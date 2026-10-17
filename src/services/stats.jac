@@ -1,6 +1,10 @@
 import from src.services.models { PriceRec, MarketStat }
 import from src.services.util { median, ord_to_iso }
 
+def _by_ordinal(r: PriceRec) -> int {
+    return r.ordinal;
+}
+
 def is_kg_unit(unit: str) -> bool {
     return unit.strip().lower() in ["", "kg", "kgs", "kilogram", "kilograms"];
 }
@@ -25,7 +29,7 @@ def compute_market_stat(
         stat.excluded_reason = "unit_not_supported:" + priced[0].unit;
         return stat;
     }
-    ordered = sorted(kg_priced, key=lambda r: PriceRec : r.ordinal);
+    ordered = sorted(kg_priced, key=_by_ordinal);
     stat.n_reports = len(ordered);
     stat.distinct_dates = len(set([r.ordinal for r in ordered]));
     stat.latest_ordinal = ordered[-1].ordinal;

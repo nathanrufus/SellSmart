@@ -1,5 +1,5 @@
 import os;
-import from byllm.lib { MockLLM }
+import from jaclang.byllm.lib { MockLLM }
 import from src.agents.brain { use_model, PlanDraft, CriticOpinion, numbers_grounded }
 import tempfile;
 import shutil;

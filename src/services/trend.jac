@@ -3,6 +3,10 @@ import from src.services.config { Thresholds }
 import from src.services.util { median, mean, linear_slope }
 import from src.services.stats { is_kg_unit }
 
+def _by_day(d: ForecastDay) -> str {
+    return d.day;
+}
+
 def daily_median_series(recs: list[PriceRec], as_of: int, days: int) -> list[tuple[int, float]] {
     by_day: dict[int, list[float]] = {};
     for r in recs {
@@ -84,7 +88,7 @@ def assess_rain(county: str, days: list[ForecastDay], t: Thresholds) -> RainRisk
     if len(days) == 0 {
         return risk;
     }
-    ordered = sorted(days, key=lambda d: ForecastDay : d.day);
+    ordered = sorted(days, key=_by_day);
     first3 = ordered[:3];
     risk.mm_3d = sum([d.rain_mm for d in first3]);
     risk.mm_7d = sum([d.rain_mm for d in ordered[:7]]);
