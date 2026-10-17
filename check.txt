@@ -1,0 +1,724 @@
+___________________________________ main.jac ___________________________________
+✖ Error: error[E0013]: 'default' is a keyword and cannot be used as a keyword argument name
+  --> /home/nathanrufus/Files/projetcs/marketwiseSoko/marketwise/src/services/config.jac:96:62
+   94 |     os.makedirs(os.path.dirname(full), exist_ok=True);
+   95 |     with open(full, "w", encoding="utf-8") as fh {
+   96 |         json.dump(payload, fh, indent=2, ensure_ascii=False, default=_ser);
+      |                                                              ^^^^^^^
+   97 |     }
+--
+  → run 'jac guide reference/diagnostics' for guidance
+✖ Error: error[E0022]: Expected '{' after lambda parameters
+  --> /home/nathanrufus/Files/projetcs/marketwiseSoko/marketwise/src/services/stats.jac:28:44
+   26 |         return stat;
+   27 |     }
+   28 |     ordered = sorted(kg_priced, key=lambda r: PriceRec : r.ordinal);
+      |                                            ^
+   29 |     stat.n_reports = len(ordered);
+--
+  → run 'jac guide reference/diagnostics' for guidance
+✖ Error: error[E0002]: Missing ','
+  --> /home/nathanrufus/Files/projetcs/marketwiseSoko/marketwise/src/services/stats.jac:28:45
+   26 |         return stat;
+   27 |     }
+   28 |     ordered = sorted(kg_priced, key=lambda r: PriceRec : r.ordinal);
+      |                                             ^
+   29 |     stat.n_reports = len(ordered);
+--
+  → run 'jac guide reference/diagnostics' for guidance
+✖ Error: error[E0006]: Unexpected token
+  --> /home/nathanrufus/Files/projetcs/marketwiseSoko/marketwise/src/services/stats.jac:28:45
+   26 |         return stat;
+   27 |     }
+   28 |     ordered = sorted(kg_priced, key=lambda r: PriceRec : r.ordinal);
+      |                                             ^
+   29 |     stat.n_reports = len(ordered);
+--
+  → run 'jac guide reference/diagnostics' for guidance
+✖ Error: error[E0022]: Expected '{' after lambda parameters
+  --> /home/nathanrufus/Files/projetcs/marketwiseSoko/marketwise/src/services/trend.jac:87:39
+   85 |         return risk;
+   86 |     }
+   87 |     ordered = sorted(days, key=lambda d: ForecastDay : d.day);
+      |                                       ^
+   88 |     first3 = ordered[:3];
+--
+  → run 'jac guide reference/diagnostics' for guidance
+✖ Error: error[E0002]: Missing ','
+  --> /home/nathanrufus/Files/projetcs/marketwiseSoko/marketwise/src/services/trend.jac:87:40
+   85 |         return risk;
+   86 |     }
+   87 |     ordered = sorted(days, key=lambda d: ForecastDay : d.day);
+      |                                        ^
+   88 |     first3 = ordered[:3];
+--
+  → run 'jac guide reference/diagnostics' for guidance
+✖ Error: error[E0006]: Unexpected token
+  --> /home/nathanrufus/Files/projetcs/marketwiseSoko/marketwise/src/services/trend.jac:87:40
+   85 |         return risk;
+   86 |     }
+   87 |     ordered = sorted(days, key=lambda d: ForecastDay : d.day);
+      |                                        ^
+   88 |     first3 = ordered[:3];
+--
+  → run 'jac guide reference/diagnostics' for guidance
+✖ Error: error[E0002]: Missing ';'
+  --> /home/nathanrufus/Files/projetcs/marketwiseSoko/marketwise/src/agents/brain.jac:43:12
+   41 | 
+   42 | def use_model(m: any) {
+   43 |     global llm;
+      |            ^^^
+   44 |     llm = m;
+--
+  → run 'jac guide reference/diagnostics' for guidance
+✖ Error: error[E0022]: Expected '{' after lambda parameters
+  --> /home/nathanrufus/Files/projetcs/marketwiseSoko/marketwise/src/services/netprice.jac:43:47
+   41 |     usable = [q for q in quotes if q.excluded_reason == ""];
+   42 |     excluded = [q for q in quotes if q.excluded_reason != ""];
+   43 |     usable_sorted = sorted(usable, key=lambda q: NetQuote : -q.net_per_kg);
+      |                                               ^
+   44 |     return usable_sorted + excluded;
+--
+  → run 'jac guide reference/diagnostics' for guidance
+✖ Error: error[E0002]: Missing ','
+  --> /home/nathanrufus/Files/projetcs/marketwiseSoko/marketwise/src/services/netprice.jac:43:48
+   41 |     usable = [q for q in quotes if q.excluded_reason == ""];
+   42 |     excluded = [q for q in quotes if q.excluded_reason != ""];
+   43 |     usable_sorted = sorted(usable, key=lambda q: NetQuote : -q.net_per_kg);
+      |                                                ^
+   44 |     return usable_sorted + excluded;
+--
+  → run 'jac guide reference/diagnostics' for guidance
+✖ Error: error[E0006]: Unexpected token
+  --> /home/nathanrufus/Files/projetcs/marketwiseSoko/marketwise/src/services/netprice.jac:43:48
+   41 |     usable = [q for q in quotes if q.excluded_reason == ""];
+   42 |     excluded = [q for q in quotes if q.excluded_reason != ""];
+   43 |     usable_sorted = sorted(usable, key=lambda q: NetQuote : -q.net_per_kg);
+      |                                                ^
+   44 |     return usable_sorted + excluded;
+--
+  → run 'jac guide reference/diagnostics' for guidance
+✖ Error: error[E0022]: Expected '{' after lambda parameters
+  --> /home/nathanrufus/Files/projetcs/marketwiseSoko/marketwise/src/services/netprice.jac:52:38
+   50 |         return None;
+   51 |     }
+   52 |     return sorted(usable, key=lambda q: NetQuote : q.distance_km)[0];
+      |                                      ^
+   53 | }
+--
+  → run 'jac guide reference/diagnostics' for guidance
+✖ Error: error[E0002]: Missing ','
+  --> /home/nathanrufus/Files/projetcs/marketwiseSoko/marketwise/src/services/netprice.jac:52:39
+   50 |         return None;
+   51 |     }
+   52 |     return sorted(usable, key=lambda q: NetQuote : q.distance_km)[0];
+      |                                       ^
+   53 | }
+--
+  → run 'jac guide reference/diagnostics' for guidance
+✖ Error: error[E0006]: Unexpected token
+  --> /home/nathanrufus/Files/projetcs/marketwiseSoko/marketwise/src/services/netprice.jac:52:39
+   50 |         return None;
+   51 |     }
+   52 |     return sorted(usable, key=lambda q: NetQuote : q.distance_km)[0];
+      |                                       ^
+   53 | }
+--
+  → run 'jac guide reference/diagnostics' for guidance
+✖ Error: error[E0022]: Expected '{' after lambda parameters
+  --> /home/nathanrufus/Files/projetcs/marketwiseSoko/marketwise/src/api/service.jac:81:60
+   79 |         });
+   80 |     }
+   81 |     return {"ok": True, "products": sorted(out, key=lambda d: dict : str(d["name"]))};
+      |                                                            ^
+   82 | }
+--
+  → run 'jac guide reference/diagnostics' for guidance
+✖ Error: error[E0002]: Missing ','
+  --> /home/nathanrufus/Files/projetcs/marketwiseSoko/marketwise/src/api/service.jac:81:61
+   79 |         });
+   80 |     }
+   81 |     return {"ok": True, "products": sorted(out, key=lambda d: dict : str(d["name"]))};
+      |                                                             ^
+   82 | }
+--
+  → run 'jac guide reference/diagnostics' for guidance
+✖ Error: error[E0006]: Unexpected token
+  --> /home/nathanrufus/Files/projetcs/marketwiseSoko/marketwise/src/api/service.jac:81:61
+   79 |         });
+   80 |     }
+   81 |     return {"ok": True, "products": sorted(out, key=lambda d: dict : str(d["name"]))};
+      |                                                             ^
+   82 | }
+--
+  → run 'jac guide reference/diagnostics' for guidance
+✖ Error: error[E0002]: Missing '}'
+  --> /home/nathanrufus/Files/projetcs/marketwiseSoko/marketwise/src/api/service.jac:81:84
+   79 |         });
+   80 |     }
+   81 |     return {"ok": True, "products": sorted(out, key=lambda d: dict : str(d["name"]))};
+      |                                                                                    ^
+   82 | }
+--
+  → run 'jac guide reference/diagnostics' for guidance
+✖ Error: error[E0002]: Missing ';'
+  --> /home/nathanrufus/Files/projetcs/marketwiseSoko/marketwise/src/api/service.jac:81:84
+   79 |         });
+   80 |     }
+   81 |     return {"ok": True, "products": sorted(out, key=lambda d: dict : str(d["name"]))};
+      |                                                                                    ^
+   82 | }
+--
+  → run 'jac guide reference/diagnostics' for guidance
+✖ Error: error[E0004]: Unexpected token in expression: ')'
+  --> /home/nathanrufus/Files/projetcs/marketwiseSoko/marketwise/src/api/service.jac:81:84
+   79 |         });
+   80 |     }
+   81 |     return {"ok": True, "products": sorted(out, key=lambda d: dict : str(d["name"]))};
+      |                                                                                    ^
+   82 | }
+--
+  → run 'jac guide reference/diagnostics' for guidance
+✖ Error: error[E0030]: Unexpected semicolon at module level
+  --> /home/nathanrufus/Files/projetcs/marketwiseSoko/marketwise/src/api/service.jac:81:86
+   79 |         });
+   80 |     }
+   81 |     return {"ok": True, "products": sorted(out, key=lambda d: dict : str(d["name"]))};
+      |                                                                                      ^
+   82 | }
+--
+  → run 'jac guide reference/diagnostics' for guidance
+✖ Error: error[E0005]: Unexpected token '}'
+  --> /home/nathanrufus/Files/projetcs/marketwiseSoko/marketwise/src/api/service.jac:82:1
+   80 |     }
+   81 |     return {"ok": True, "products": sorted(out, key=lambda d: dict : str(d["name"]))};
+   82 | }
+      | ^
+   83 | 
+--
+  → run 'jac guide reference/diagnostics' for guidance
+✖ Error: error[E0022]: Expected '{' after lambda parameters
+  --> /home/nathanrufus/Files/projetcs/marketwiseSoko/marketwise/src/api/service.jac:136:36
+  134 |         });
+  135 |     }
+  136 |     rows = sorted(rows, key=lambda d: dict : str(d["market"]));
+      |                                    ^
+  137 |     return {"ok": True, "product": pname, "as_of": ord_to_iso(as_of), "window_days": window_days, "count": len(rows), "markets": rows};
+--
+  → run 'jac guide reference/diagnostics' for guidance
+✖ Error: error[E0002]: Missing ','
+  --> /home/nathanrufus/Files/projetcs/marketwiseSoko/marketwise/src/api/service.jac:136:37
+  134 |         });
+  135 |     }
+  136 |     rows = sorted(rows, key=lambda d: dict : str(d["market"]));
+      |                                     ^
+  137 |     return {"ok": True, "product": pname, "as_of": ord_to_iso(as_of), "window_days": window_days, "count": len(rows), "markets": rows};
+--
+  → run 'jac guide reference/diagnostics' for guidance
+✖ Error: error[E0006]: Unexpected token
+  --> /home/nathanrufus/Files/projetcs/marketwiseSoko/marketwise/src/api/service.jac:136:37
+  134 |         });
+  135 |     }
+  136 |     rows = sorted(rows, key=lambda d: dict : str(d["market"]));
+      |                                     ^
+  137 |     return {"ok": True, "product": pname, "as_of": ord_to_iso(as_of), "window_days": window_days, "count": len(rows), "markets": rows};
+--
+  → run 'jac guide reference/diagnostics' for guidance
+✖ Error: error[E0002]: Missing ';'
+  --> /home/nathanrufus/Files/projetcs/marketwiseSoko/marketwise/src/api/service.jac:136:62
+  134 |         });
+  135 |     }
+  136 |     rows = sorted(rows, key=lambda d: dict : str(d["market"]));
+      |                                                              ^
+  137 |     return {"ok": True, "product": pname, "as_of": ord_to_iso(as_of), "window_days": window_days, "count": len(rows), "markets": rows};
+--
+  → run 'jac guide reference/diagnostics' for guidance
+✖ Error: error[E0004]: Unexpected token in expression: ')'
+  --> /home/nathanrufus/Files/projetcs/marketwiseSoko/marketwise/src/api/service.jac:136:62
+  134 |         });
+  135 |     }
+  136 |     rows = sorted(rows, key=lambda d: dict : str(d["market"]));
+      |                                                              ^
+  137 |     return {"ok": True, "product": pname, "as_of": ord_to_iso(as_of), "window_days": window_days, "count": len(rows), "markets": rows};
+--
+  → run 'jac guide reference/diagnostics' for guidance
+✖ Error: error[E0022]: Expected '{' after lambda parameters
+  --> /home/nathanrufus/Files/projetcs/marketwiseSoko/marketwise/src/api/service.jac:294:71
+  292 | 
+  293 | def recent_requests(limit: int = 10) -> dict[str, any] {
+  294 |     recs = sorted([r for r in [root -->][?:AdviceRecord]], key=lambda r: AdviceRecord : r.created_at, reverse=True);
+      |                                                                       ^
+  295 |     return {"ok": True, "requests": [
+--
+  → run 'jac guide reference/diagnostics' for guidance
+✖ Error: error[E0002]: Missing ','
+  --> /home/nathanrufus/Files/projetcs/marketwiseSoko/marketwise/src/api/service.jac:294:72
+  292 | 
+  293 | def recent_requests(limit: int = 10) -> dict[str, any] {
+  294 |     recs = sorted([r for r in [root -->][?:AdviceRecord]], key=lambda r: AdviceRecord : r.created_at, reverse=True);
+      |                                                                        ^
+  295 |     return {"ok": True, "requests": [
+--
+  → run 'jac guide reference/diagnostics' for guidance
+✖ Error: error[E0006]: Unexpected token
+  --> /home/nathanrufus/Files/projetcs/marketwiseSoko/marketwise/src/api/service.jac:294:72
+  292 | 
+  293 | def recent_requests(limit: int = 10) -> dict[str, any] {
+  294 |     recs = sorted([r for r in [root -->][?:AdviceRecord]], key=lambda r: AdviceRecord : r.created_at, reverse=True);
+      |                                                                        ^
+  295 |     return {"ok": True, "requests": [
+--
+  → run 'jac guide reference/diagnostics' for guidance
+✖ Error: error[E1138]: Module 'openpyxl' is not installed, but 'openpyxl' is declared in jac.toml
+  --> /home/nathanrufus/Files/projetcs/marketwiseSoko/marketwise/src/ingest/kamis_fetch.jac:8:13
+    6 | import subprocess;
+    7 | import from datetime { datetime, timezone }
+    8 | import from openpyxl { load_workbook }
+      |             ^^^^^^^^
+    9 | import from src.services.config { load_product_cfgs, load_per_page, path_in, read_json, write_json }
+   10 | import from src.services.aliases { resolve_product, suggest_products }
+help: The project declares 'openpyxl' as a dependency, so this import is expected to resolve, but no installed module named 'openpyxl' was found. Every name imported from it is typed Unknown, so nothing that flows from it was type-checked. Run 'jac install' (or install 'openpyxl' into the environment jac uses) and check again. An import inside a try that catches ImportError stays a warning, since that is how an optional dependency is written.
+  → run 'jac guide reference/diagnostics' for guidance
+✖ Error: error[E1138]: Module 'openpyxl' is not installed, but 'openpyxl' is declared in jac.toml
+  --> /home/nathanrufus/Files/projetcs/marketwiseSoko/marketwise/src/ingest/clean.jac:2:13
+    1 | import os;
+    2 | import from openpyxl { load_workbook }
+      |             ^^^^^^^^
+    3 | import from src.services.models { PriceRec }
+    4 | import from src.services.config { Thresholds, load_thresholds, path_in, write_json, read_json }
+    5 | import from src.services.util { norm_key, parse_price, parse_number, to_ordinal, ord_to_iso, median }
+help: The project declares 'openpyxl' as a dependency, so this import is expected to resolve, but no installed module named 'openpyxl' was found. Every name imported from it is typed Unknown, so nothing that flows from it was type-checked. Run 'jac install' (or install 'openpyxl' into the environment jac uses) and check again. An import inside a try that catches ImportError stays a warning, since that is how an optional dependency is written.
+  → run 'jac guide reference/diagnostics' for guidance
+
+================================= failed files =================================
+main.jac - 32 errors, 0 warnings
+Checked 1 file on its own; 24 imported modules read as interfaces only, so type errors inside them are not reported. Run 'jac check' with no paths in the project root to check the whole program.
+============================== 1 failed in 17.11s ==============================
+--
+__________________________ src/services/backtest.jac ___________________________
+✖ Error: error[E0013]: 'default' is a keyword and cannot be used as a keyword argument name
+  --> /home/nathanrufus/Files/projetcs/marketwiseSoko/marketwise/src/services/config.jac:96:62
+   94 |     os.makedirs(os.path.dirname(full), exist_ok=True);
+   95 |     with open(full, "w", encoding="utf-8") as fh {
+   96 |         json.dump(payload, fh, indent=2, ensure_ascii=False, default=_ser);
+      |                                                              ^^^^^^^
+   97 |     }
+--
+  → run 'jac guide reference/diagnostics' for guidance
+✖ Error: error[E0022]: Expected '{' after lambda parameters
+  --> /home/nathanrufus/Files/projetcs/marketwiseSoko/marketwise/src/services/stats.jac:28:44
+   26 |         return stat;
+   27 |     }
+   28 |     ordered = sorted(kg_priced, key=lambda r: PriceRec : r.ordinal);
+      |                                            ^
+   29 |     stat.n_reports = len(ordered);
+--
+  → run 'jac guide reference/diagnostics' for guidance
+✖ Error: error[E0002]: Missing ','
+  --> /home/nathanrufus/Files/projetcs/marketwiseSoko/marketwise/src/services/stats.jac:28:45
+   26 |         return stat;
+   27 |     }
+   28 |     ordered = sorted(kg_priced, key=lambda r: PriceRec : r.ordinal);
+      |                                             ^
+   29 |     stat.n_reports = len(ordered);
+--
+  → run 'jac guide reference/diagnostics' for guidance
+✖ Error: error[E0006]: Unexpected token
+  --> /home/nathanrufus/Files/projetcs/marketwiseSoko/marketwise/src/services/stats.jac:28:45
+   26 |         return stat;
+   27 |     }
+   28 |     ordered = sorted(kg_priced, key=lambda r: PriceRec : r.ordinal);
+      |                                             ^
+   29 |     stat.n_reports = len(ordered);
+--
+  → run 'jac guide reference/diagnostics' for guidance
+✖ Error: error[E0022]: Expected '{' after lambda parameters
+  --> /home/nathanrufus/Files/projetcs/marketwiseSoko/marketwise/src/services/netprice.jac:43:47
+   41 |     usable = [q for q in quotes if q.excluded_reason == ""];
+   42 |     excluded = [q for q in quotes if q.excluded_reason != ""];
+   43 |     usable_sorted = sorted(usable, key=lambda q: NetQuote : -q.net_per_kg);
+      |                                               ^
+   44 |     return usable_sorted + excluded;
+--
+  → run 'jac guide reference/diagnostics' for guidance
+✖ Error: error[E0002]: Missing ','
+  --> /home/nathanrufus/Files/projetcs/marketwiseSoko/marketwise/src/services/netprice.jac:43:48
+   41 |     usable = [q for q in quotes if q.excluded_reason == ""];
+   42 |     excluded = [q for q in quotes if q.excluded_reason != ""];
+   43 |     usable_sorted = sorted(usable, key=lambda q: NetQuote : -q.net_per_kg);
+      |                                                ^
+   44 |     return usable_sorted + excluded;
+--
+  → run 'jac guide reference/diagnostics' for guidance
+✖ Error: error[E0006]: Unexpected token
+  --> /home/nathanrufus/Files/projetcs/marketwiseSoko/marketwise/src/services/netprice.jac:43:48
+   41 |     usable = [q for q in quotes if q.excluded_reason == ""];
+   42 |     excluded = [q for q in quotes if q.excluded_reason != ""];
+   43 |     usable_sorted = sorted(usable, key=lambda q: NetQuote : -q.net_per_kg);
+      |                                                ^
+   44 |     return usable_sorted + excluded;
+--
+  → run 'jac guide reference/diagnostics' for guidance
+✖ Error: error[E0022]: Expected '{' after lambda parameters
+  --> /home/nathanrufus/Files/projetcs/marketwiseSoko/marketwise/src/services/netprice.jac:52:38
+   50 |         return None;
+   51 |     }
+   52 |     return sorted(usable, key=lambda q: NetQuote : q.distance_km)[0];
+      |                                      ^
+   53 | }
+--
+  → run 'jac guide reference/diagnostics' for guidance
+✖ Error: error[E0002]: Missing ','
+  --> /home/nathanrufus/Files/projetcs/marketwiseSoko/marketwise/src/services/netprice.jac:52:39
+   50 |         return None;
+   51 |     }
+   52 |     return sorted(usable, key=lambda q: NetQuote : q.distance_km)[0];
+      |                                       ^
+   53 | }
+--
+  → run 'jac guide reference/diagnostics' for guidance
+✖ Error: error[E0006]: Unexpected token
+  --> /home/nathanrufus/Files/projetcs/marketwiseSoko/marketwise/src/services/netprice.jac:52:39
+   50 |         return None;
+   51 |     }
+   52 |     return sorted(usable, key=lambda q: NetQuote : q.distance_km)[0];
+      |                                       ^
+   53 | }
+--
+  → run 'jac guide reference/diagnostics' for guidance
+✖ Error: error[E0022]: Expected '{' after lambda parameters
+  --> /home/nathanrufus/Files/projetcs/marketwiseSoko/marketwise/src/services/trend.jac:87:39
+   85 |         return risk;
+   86 |     }
+   87 |     ordered = sorted(days, key=lambda d: ForecastDay : d.day);
+      |                                       ^
+   88 |     first3 = ordered[:3];
+--
+  → run 'jac guide reference/diagnostics' for guidance
+✖ Error: error[E0002]: Missing ','
+  --> /home/nathanrufus/Files/projetcs/marketwiseSoko/marketwise/src/services/trend.jac:87:40
+   85 |         return risk;
+   86 |     }
+   87 |     ordered = sorted(days, key=lambda d: ForecastDay : d.day);
+      |                                        ^
+   88 |     first3 = ordered[:3];
+--
+  → run 'jac guide reference/diagnostics' for guidance
+✖ Error: error[E0006]: Unexpected token
+  --> /home/nathanrufus/Files/projetcs/marketwiseSoko/marketwise/src/services/trend.jac:87:40
+   85 |         return risk;
+   86 |     }
+   87 |     ordered = sorted(days, key=lambda d: ForecastDay : d.day);
+      |                                        ^
+   88 |     first3 = ordered[:3];
+--
+____________________________ src/services/rules.jac ____________________________
+✖ Error: error[E0013]: 'default' is a keyword and cannot be used as a keyword argument name
+  --> /home/nathanrufus/Files/projetcs/marketwiseSoko/marketwise/src/services/config.jac:96:62
+   94 |     os.makedirs(os.path.dirname(full), exist_ok=True);
+   95 |     with open(full, "w", encoding="utf-8") as fh {
+   96 |         json.dump(payload, fh, indent=2, ensure_ascii=False, default=_ser);
+      |                                                              ^^^^^^^
+   97 |     }
+--
+____________________________ src/services/stats.jac ____________________________
+✖ Error: error[E0022]: Expected '{' after lambda parameters
+  --> src/services/stats.jac:28:44
+   26 |         return stat;
+   27 |     }
+   28 |     ordered = sorted(kg_priced, key=lambda r: PriceRec : r.ordinal);
+      |                                            ^
+   29 |     stat.n_reports = len(ordered);
+--
+  → run 'jac guide reference/diagnostics' for guidance
+✖ Error: error[E0002]: Missing ','
+  --> src/services/stats.jac:28:45
+   26 |         return stat;
+   27 |     }
+   28 |     ordered = sorted(kg_priced, key=lambda r: PriceRec : r.ordinal);
+      |                                             ^
+   29 |     stat.n_reports = len(ordered);
+--
+  → run 'jac guide reference/diagnostics' for guidance
+✖ Error: error[E0006]: Unexpected token
+  --> src/services/stats.jac:28:45
+   26 |         return stat;
+   27 |     }
+   28 |     ordered = sorted(kg_priced, key=lambda r: PriceRec : r.ordinal);
+      |                                             ^
+   29 |     stat.n_reports = len(ordered);
+--
+  → run 'jac guide reference/diagnostics' for guidance
+✖ Error: error[E1054]: No matching overload found for the function call with the given arguments
+  --> src/services/stats.jac:28:15
+   26 |         return stat;
+   27 |     }
+   28 |     ordered = sorted(kg_priced, key=lambda r: PriceRec : r.ordinal);
+      |               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   29 |     stat.n_reports = len(ordered);
+--
+  → run 'jac guide jac-types' for guidance
+✖ Error: error[E1053]: Cannot assign <Unknown> to parameter 'obj' of type Sized
+  --> src/services/stats.jac:29:26
+   27 |     }
+   28 |     ordered = sorted(kg_priced, key=lambda r: PriceRec : r.ordinal);
+   29 |     stat.n_reports = len(ordered);
+      |                          ^^^^^^^
+   30 |     stat.distinct_dates = len(set([r.ordinal for r in ordered]));
+--
+  → run 'jac guide jac-types' for guidance
+✖ Error: error[E1032]: Type is Unknown, cannot access attribute "ordinal"
+  --> src/services/stats.jac:30:38
+   28 |     ordered = sorted(kg_priced, key=lambda r: PriceRec : r.ordinal);
+   29 |     stat.n_reports = len(ordered);
+   30 |     stat.distinct_dates = len(set([r.ordinal for r in ordered]));
+      |                                      ^^^^^^^
+   31 |     stat.latest_ordinal = ordered[-1].ordinal;
+--
+  → run 'jac guide jac-types' for guidance
+✖ Error: error[E1001]: Cannot assign <Unknown> to int
+  --> src/services/stats.jac:31:5
+   29 |     stat.n_reports = len(ordered);
+   30 |     stat.distinct_dates = len(set([r.ordinal for r in ordered]));
+   31 |     stat.latest_ordinal = ordered[-1].ordinal;
+      |     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   32 |     stat.latest_day = ord_to_iso(stat.latest_ordinal);
+--
+  → run 'jac guide jac-types' for guidance
+✖ Error: error[E1032]: Type is Unknown, cannot access attribute "wholesale"
+  --> src/services/stats.jac:34:41
+   32 |     stat.latest_day = ord_to_iso(stat.latest_ordinal);
+   33 |     recent = ordered[-5:];
+   34 |     stat.price_per_kg = median([float(r.wholesale or 0.0) for r in recent]);
+      |                                         ^^^^^^^^^
+   35 |     retail_vals = [float(r.retail) for r in recent if r.retail is not None];
+--
+  → run 'jac guide jac-types' for guidance
+✖ Error: error[E1053]: Cannot assign <Unknown> | float to parameter 'x' of type str | Buffer | SupportsFloat | SupportsIndex
+  --> src/services/stats.jac:34:39
+   32 |     stat.latest_day = ord_to_iso(stat.latest_ordinal);
+   33 |     recent = ordered[-5:];
+   34 |     stat.price_per_kg = median([float(r.wholesale or 0.0) for r in recent]);
+      |                                       ^^^^^^^^^^^^^^^^^^
+   35 |     retail_vals = [float(r.retail) for r in recent if r.retail is not None];
+--
+  → run 'jac guide jac-types' for guidance
+✖ Error: error[E1032]: Type is Unknown, cannot access attribute "retail"
+  --> src/services/stats.jac:35:28
+   33 |     recent = ordered[-5:];
+   34 |     stat.price_per_kg = median([float(r.wholesale or 0.0) for r in recent]);
+   35 |     retail_vals = [float(r.retail) for r in recent if r.retail is not None];
+      |                            ^^^^^^
+   36 |     if len(retail_vals) > 0 {
+--
+  → run 'jac guide jac-types' for guidance
+✖ Error: error[E1053]: Cannot assign <Unknown> to parameter 'x' of type str | Buffer | SupportsFloat | SupportsIndex
+  --> src/services/stats.jac:35:26
+   33 |     recent = ordered[-5:];
+   34 |     stat.price_per_kg = median([float(r.wholesale or 0.0) for r in recent]);
+   35 |     retail_vals = [float(r.retail) for r in recent if r.retail is not None];
+      |                          ^^^^^^^^
+   36 |     if len(retail_vals) > 0 {
+--
+  → run 'jac guide jac-types' for guidance
+✖ Error: error[E1032]: Type is Unknown, cannot access attribute "retail"
+  --> src/services/stats.jac:35:57
+   33 |     recent = ordered[-5:];
+   34 |     stat.price_per_kg = median([float(r.wholesale or 0.0) for r in recent]);
+   35 |     retail_vals = [float(r.retail) for r in recent if r.retail is not None];
+      |                                                         ^^^^^^
+   36 |     if len(retail_vals) > 0 {
+--
+  → run 'jac guide jac-types' for guidance
+✖ Error: error[E1032]: Type is Unknown, cannot access attribute "supply"
+  --> src/services/stats.jac:39:28
+   37 |         stat.retail_per_kg = median(retail_vals);
+   38 |     }
+   39 |     supply_vals = [float(r.supply) for r in ordered if r.supply is not None];
+      |                            ^^^^^^
+   40 |     if len(supply_vals) > 0 {
+--
+  → run 'jac guide jac-types' for guidance
+✖ Error: error[E1053]: Cannot assign <Unknown> to parameter 'x' of type str | Buffer | SupportsFloat | SupportsIndex
+  --> src/services/stats.jac:39:26
+   37 |         stat.retail_per_kg = median(retail_vals);
+   38 |     }
+   39 |     supply_vals = [float(r.supply) for r in ordered if r.supply is not None];
+      |                          ^^^^^^^^
+   40 |     if len(supply_vals) > 0 {
+--
+  → run 'jac guide jac-types' for guidance
+✖ Error: error[E1032]: Type is Unknown, cannot access attribute "supply"
+  --> src/services/stats.jac:39:58
+   37 |         stat.retail_per_kg = median(retail_vals);
+   38 |     }
+   39 |     supply_vals = [float(r.supply) for r in ordered if r.supply is not None];
+      |                                                          ^^^^^^
+   40 |     if len(supply_vals) > 0 {
+--
+  → run 'jac guide jac-types' for guidance
+✖ Error: error[E1032]: Type is Unknown, cannot access attribute "report_id"
+  --> src/services/stats.jac:43:26
+   41 |         stat.supply_median = median(supply_vals);
+   42 |     }
+   43 |     stat.report_ids = [r.report_id for r in recent];
+      |                          ^^^^^^^^^
+   44 |     return stat;
+--
+___________________________ src/services/config.jac ____________________________
+✖ Error: error[E0013]: 'default' is a keyword and cannot be used as a keyword argument name
+  --> src/services/config.jac:96:62
+   94 |     os.makedirs(os.path.dirname(full), exist_ok=True);
+   95 |     with open(full, "w", encoding="utf-8") as fh {
+   96 |         json.dump(payload, fh, indent=2, ensure_ascii=False, default=_ser);
+      |                                                              ^^^^^^^
+   97 |     }
+--
+____________________________ src/services/trend.jac ____________________________
+✖ Error: error[E0022]: Expected '{' after lambda parameters
+  --> src/services/trend.jac:87:39
+   85 |         return risk;
+   86 |     }
+   87 |     ordered = sorted(days, key=lambda d: ForecastDay : d.day);
+      |                                       ^
+   88 |     first3 = ordered[:3];
+--
+  → run 'jac guide reference/diagnostics' for guidance
+✖ Error: error[E0002]: Missing ','
+  --> src/services/trend.jac:87:40
+   85 |         return risk;
+   86 |     }
+   87 |     ordered = sorted(days, key=lambda d: ForecastDay : d.day);
+      |                                        ^
+   88 |     first3 = ordered[:3];
+--
+  → run 'jac guide reference/diagnostics' for guidance
+✖ Error: error[E0006]: Unexpected token
+  --> src/services/trend.jac:87:40
+   85 |         return risk;
+   86 |     }
+   87 |     ordered = sorted(days, key=lambda d: ForecastDay : d.day);
+      |                                        ^
+   88 |     first3 = ordered[:3];
+--
+  → run 'jac guide reference/diagnostics' for guidance
+✖ Error: error[E0013]: 'default' is a keyword and cannot be used as a keyword argument name
+  --> /home/nathanrufus/Files/projetcs/marketwiseSoko/marketwise/src/services/config.jac:96:62
+   94 |     os.makedirs(os.path.dirname(full), exist_ok=True);
+   95 |     with open(full, "w", encoding="utf-8") as fh {
+   96 |         json.dump(payload, fh, indent=2, ensure_ascii=False, default=_ser);
+      |                                                              ^^^^^^^
+   97 |     }
+--
+  → run 'jac guide reference/diagnostics' for guidance
+✖ Error: error[E0022]: Expected '{' after lambda parameters
+  --> /home/nathanrufus/Files/projetcs/marketwiseSoko/marketwise/src/services/stats.jac:28:44
+   26 |         return stat;
+   27 |     }
+   28 |     ordered = sorted(kg_priced, key=lambda r: PriceRec : r.ordinal);
+      |                                            ^
+   29 |     stat.n_reports = len(ordered);
+--
+  → run 'jac guide reference/diagnostics' for guidance
+✖ Error: error[E0002]: Missing ','
+  --> /home/nathanrufus/Files/projetcs/marketwiseSoko/marketwise/src/services/stats.jac:28:45
+   26 |         return stat;
+   27 |     }
+   28 |     ordered = sorted(kg_priced, key=lambda r: PriceRec : r.ordinal);
+      |                                             ^
+   29 |     stat.n_reports = len(ordered);
+--
+  → run 'jac guide reference/diagnostics' for guidance
+✖ Error: error[E0006]: Unexpected token
+  --> /home/nathanrufus/Files/projetcs/marketwiseSoko/marketwise/src/services/stats.jac:28:45
+   26 |         return stat;
+   27 |     }
+   28 |     ordered = sorted(kg_priced, key=lambda r: PriceRec : r.ordinal);
+      |                                             ^
+   29 |     stat.n_reports = len(ordered);
+--
+__________________________ src/services/transport.jac __________________________
+✖ Error: error[E0013]: 'default' is a keyword and cannot be used as a keyword argument name
+  --> /home/nathanrufus/Files/projetcs/marketwiseSoko/marketwise/src/services/config.jac:96:62
+   94 |     os.makedirs(os.path.dirname(full), exist_ok=True);
+   95 |     with open(full, "w", encoding="utf-8") as fh {
+   96 |         json.dump(payload, fh, indent=2, ensure_ascii=False, default=_ser);
+      |                                                              ^^^^^^^
+   97 |     }
+--
+__________________________ src/services/netprice.jac ___________________________
+✖ Error: error[E0022]: Expected '{' after lambda parameters
+  --> src/services/netprice.jac:43:47
+   41 |     usable = [q for q in quotes if q.excluded_reason == ""];
+   42 |     excluded = [q for q in quotes if q.excluded_reason != ""];
+   43 |     usable_sorted = sorted(usable, key=lambda q: NetQuote : -q.net_per_kg);
+      |                                               ^
+   44 |     return usable_sorted + excluded;
+--
+  → run 'jac guide reference/diagnostics' for guidance
+✖ Error: error[E0002]: Missing ','
+  --> src/services/netprice.jac:43:48
+   41 |     usable = [q for q in quotes if q.excluded_reason == ""];
+   42 |     excluded = [q for q in quotes if q.excluded_reason != ""];
+   43 |     usable_sorted = sorted(usable, key=lambda q: NetQuote : -q.net_per_kg);
+      |                                                ^
+   44 |     return usable_sorted + excluded;
+--
+  → run 'jac guide reference/diagnostics' for guidance
+✖ Error: error[E0006]: Unexpected token
+  --> src/services/netprice.jac:43:48
+   41 |     usable = [q for q in quotes if q.excluded_reason == ""];
+   42 |     excluded = [q for q in quotes if q.excluded_reason != ""];
+   43 |     usable_sorted = sorted(usable, key=lambda q: NetQuote : -q.net_per_kg);
+      |                                                ^
+   44 |     return usable_sorted + excluded;
+--
+  → run 'jac guide reference/diagnostics' for guidance
+✖ Error: error[E0022]: Expected '{' after lambda parameters
+  --> src/services/netprice.jac:52:38
+   50 |         return None;
+   51 |     }
+   52 |     return sorted(usable, key=lambda q: NetQuote : q.distance_km)[0];
+      |                                      ^
+   53 | }
+--
+  → run 'jac guide reference/diagnostics' for guidance
+✖ Error: error[E0002]: Missing ','
+  --> src/services/netprice.jac:52:39
+   50 |         return None;
+   51 |     }
+   52 |     return sorted(usable, key=lambda q: NetQuote : q.distance_km)[0];
+      |                                       ^
+   53 | }
+--
+  → run 'jac guide reference/diagnostics' for guidance
+✖ Error: error[E0006]: Unexpected token
+  --> src/services/netprice.jac:52:39
+   50 |         return None;
+   51 |     }
+   52 |     return sorted(usable, key=lambda q: NetQuote : q.distance_km)[0];
+      |                                       ^
+   53 | }
+--
+  → run 'jac guide reference/diagnostics' for guidance
+✖ Error: error[E0013]: 'default' is a keyword and cannot be used as a keyword argument name
+  --> /home/nathanrufus/Files/projetcs/marketwiseSoko/marketwise/src/services/config.jac:96:62
+   94 |     os.makedirs(os.path.dirname(full), exist_ok=True);
+   95 |     with open(full, "w", encoding="utf-8") as fh {
+   96 |         json.dump(payload, fh, indent=2, ensure_ascii=False, default=_ser);
+      |                                                              ^^^^^^^
+   97 |     }
+--
+  → run 'jac guide reference/diagnostics' for guidance
+✖ Error: error[E1054]: No matching overload found for the function call with the given arguments
+  --> src/services/netprice.jac:43:21
+   41 |     usable = [q for q in quotes if q.excluded_reason == ""];
+   42 |     excluded = [q for q in quotes if q.excluded_reason != ""];
+   43 |     usable_sorted = sorted(usable, key=lambda q: NetQuote : -q.net_per_kg);
+      |                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   44 |     return usable_sorted + excluded;
+--
+  → run 'jac guide jac-types' for guidance
+✖ Error: error[E1055]: No matching overload found for method "__add__" with the given arguments
+  --> src/services/netprice.jac:44:12
+   42 |     excluded = [q for q in quotes if q.excluded_
