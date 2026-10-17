@@ -1,0 +1,304 @@
+{
+  "note": "Approximate county seat coordinates for straight line transport estimates.",
+  "counties": [
+    {
+      "name": "Mombasa",
+      "lat": -4.0435,
+      "lon": 39.6682,
+      "aliases": []
+    },
+    {
+      "name": "Kwale",
+      "lat": -4.1737,
+      "lon": 39.4521,
+      "aliases": []
+    },
+    {
+      "name": "Kilifi",
+      "lat": -3.6305,
+      "lon": 39.8499,
+      "aliases": []
+    },
+    {
+      "name": "Tana River",
+      "lat": -1.5,
+      "lon": 40.03,
+      "aliases": []
+    },
+    {
+      "name": "Lamu",
+      "lat": 2.2717,
+      "lon": 40.902,
+      "aliases": []
+    },
+    {
+      "name": "Taita Taveta",
+      "lat": -3.3961,
+      "lon": 38.5561,
+      "aliases": [
+        "Taita-Taveta"
+      ]
+    },
+    {
+      "name": "Garissa",
+      "lat": -0.4532,
+      "lon": 39.6461,
+      "aliases": []
+    },
+    {
+      "name": "Wajir",
+      "lat": 1.7471,
+      "lon": 40.0573,
+      "aliases": []
+    },
+    {
+      "name": "Mandera",
+      "lat": 3.9366,
+      "lon": 41.867,
+      "aliases": []
+    },
+    {
+      "name": "Marsabit",
+      "lat": 2.3284,
+      "lon": 37.9899,
+      "aliases": []
+    },
+    {
+      "name": "Isiolo",
+      "lat": 0.3546,
+      "lon": 37.5822,
+      "aliases": []
+    },
+    {
+      "name": "Meru",
+      "lat": 0.0467,
+      "lon": 37.649,
+      "aliases": []
+    },
+    {
+      "name": "Tharaka Nithi",
+      "lat": -0.333,
+      "lon": 37.65,
+      "aliases": [
+        "Tharaka-Nithi"
+      ]
+    },
+    {
+      "name": "Embu",
+      "lat": -0.5389,
+      "lon": 37.4596,
+      "aliases": []
+    },
+    {
+      "name": "Kitui",
+      "lat": -1.3667,
+      "lon": 38.0106,
+      "aliases": []
+    },
+    {
+      "name": "Machakos",
+      "lat": -1.5177,
+      "lon": 37.2634,
+      "aliases": []
+    },
+    {
+      "name": "Makueni",
+      "lat": -1.78,
+      "lon": 37.63,
+      "aliases": []
+    },
+    {
+      "name": "Nyandarua",
+      "lat": -0.27,
+      "lon": 36.38,
+      "aliases": []
+    },
+    {
+      "name": "Nyeri",
+      "lat": -0.4197,
+      "lon": 36.9511,
+      "aliases": []
+    },
+    {
+      "name": "Kirinyaga",
+      "lat": -0.4989,
+      "lon": 37.28,
+      "aliases": []
+    },
+    {
+      "name": "Murang'a",
+      "lat": -0.721,
+      "lon": 37.1526,
+      "aliases": [
+        "Muranga"
+      ]
+    },
+    {
+      "name": "Kiambu",
+      "lat": -1.1714,
+      "lon": 36.8356,
+      "aliases": []
+    },
+    {
+      "name": "Turkana",
+      "lat": 3.119,
+      "lon": 35.597,
+      "aliases": []
+    },
+    {
+      "name": "West Pokot",
+      "lat": 1.2389,
+      "lon": 35.1119,
+      "aliases": []
+    },
+    {
+      "name": "Samburu",
+      "lat": 1.096,
+      "lon": 36.698,
+      "aliases": []
+    },
+    {
+      "name": "Trans Nzoia",
+      "lat": 1.0157,
+      "lon": 35.002,
+      "aliases": [
+        "Trans-Nzoia"
+      ]
+    },
+    {
+      "name": "Uasin Gishu",
+      "lat": 0.5143,
+      "lon": 35.2698,
+      "aliases": [
+        "Eldoret"
+      ]
+    },
+    {
+      "name": "Elgeyo Marakwet",
+      "lat": 0.67,
+      "lon": 35.508,
+      "aliases": [
+        "Elgeyo-Marakwet",
+        "Keiyo Marakwet"
+      ]
+    },
+    {
+      "name": "Nandi",
+      "lat": 0.204,
+      "lon": 35.105,
+      "aliases": []
+    },
+    {
+      "name": "Baringo",
+      "lat": 0.4919,
+      "lon": 35.743,
+      "aliases": []
+    },
+    {
+      "name": "Laikipia",
+      "lat": 0.007,
+      "lon": 37.0722,
+      "aliases": []
+    },
+    {
+      "name": "Nakuru",
+      "lat": -0.3031,
+      "lon": 36.08,
+      "aliases": []
+    },
+    {
+      "name": "Narok",
+      "lat": -1.0783,
+      "lon": 35.8601,
+      "aliases": []
+    },
+    {
+      "name": "Kajiado",
+      "lat": -1.853,
+      "lon": 36.782,
+      "aliases": []
+    },
+    {
+      "name": "Kericho",
+      "lat": -0.3689,
+      "lon": 35.2863,
+      "aliases": []
+    },
+    {
+      "name": "Bomet",
+      "lat": -0.7813,
+      "lon": 35.3416,
+      "aliases": []
+    },
+    {
+      "name": "Kakamega",
+      "lat": 0.2827,
+      "lon": 34.7519,
+      "aliases": []
+    },
+    {
+      "name": "Vihiga",
+      "lat": 0.083,
+      "lon": 34.72,
+      "aliases": []
+    },
+    {
+      "name": "Bungoma",
+      "lat": 0.5635,
+      "lon": 34.5606,
+      "aliases": []
+    },
+    {
+      "name": "Busia",
+      "lat": 0.4608,
+      "lon": 34.1115,
+      "aliases": []
+    },
+    {
+      "name": "Siaya",
+      "lat": 0.0607,
+      "lon": 34.2881,
+      "aliases": []
+    },
+    {
+      "name": "Kisumu",
+      "lat": -0.0917,
+      "lon": 34.768,
+      "aliases": []
+    },
+    {
+      "name": "Homa Bay",
+      "lat": -0.5273,
+      "lon": 34.4571,
+      "aliases": [
+        "Homabay"
+      ]
+    },
+    {
+      "name": "Migori",
+      "lat": -1.0634,
+      "lon": 34.4731,
+      "aliases": []
+    },
+    {
+      "name": "Kisii",
+      "lat": -0.6817,
+      "lon": 34.7667,
+      "aliases": []
+    },
+    {
+      "name": "Nyamira",
+      "lat": -0.5633,
+      "lon": 34.9358,
+      "aliases": []
+    },
+    {
+      "name": "Nairobi",
+      "lat": -1.2921,
+      "lon": 36.8219,
+      "aliases": [
+        "Nairobi City"
+      ]
+    }
+  ]
+}
