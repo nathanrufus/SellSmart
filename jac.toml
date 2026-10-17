@@ -42,3 +42,10 @@ watchdog = ">=3.0.0"
 
 [test]
 directory = "tests"
+
+[jacpack]
+name = 'SellSmart'
+description = 'Jac IDE snapshot for SellSmart'
+
+[jachammer]
+project_id = "prj_b28a3a35b86840dabb4e8f96254fe5cd"
