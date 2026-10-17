@@ -1,0 +1,66 @@
+{
+  "note": "Product names exactly as KAMIS lists them (Commodity column).",
+  "per_page": 20000,
+  "products": [
+    {
+      "name": "Dry Maize",
+      "aliases": [
+        "dried maize",
+        "dry maize",
+        "maize",
+        "corn",
+        "mahindi",
+        "mahindi kavu"
+      ],
+      "bag_kg": 90
+    },
+    {
+      "name": "Wheat",
+      "aliases": [
+        "wheat",
+        "ngano"
+      ],
+      "bag_kg": 90
+    },
+    {
+      "name": "Green Grams",
+      "aliases": [
+        "green grams",
+        "green gram",
+        "ndengu",
+        "mung beans",
+        "pojo"
+      ],
+      "bag_kg": 90
+    },
+    {
+      "name": "Red Sorghum",
+      "aliases": [
+        "red sorghum",
+        "sorghum",
+        "mtama"
+      ],
+      "bag_kg": 90
+    },
+    {
+      "name": "Rice",
+      "aliases": [
+        "rice",
+        "mchele",
+        "mpunga"
+      ],
+      "bag_kg": 50
+    },
+    {
+      "name": "Ground Nuts",
+      "aliases": [
+        "ground nuts",
+        "groundnuts",
+        "groundnut",
+        "peanuts",
+        "karanga"
+      ],
+      "bag_kg": 50
+    }
+  ]
+}

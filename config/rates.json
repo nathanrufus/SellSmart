@@ -1,0 +1,7 @@
+{
+  "note": "Estimates: straight line km x road factor x rate per bag per km, plus flat handling per bag.",
+  "road_factor": 1.3,
+  "cost_per_km_per_bag": 2.0,
+  "handling_cost_per_bag": 30.0,
+  "default_bag_kg": 90.0
+}

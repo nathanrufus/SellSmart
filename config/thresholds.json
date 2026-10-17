@@ -1,0 +1,21 @@
+{
+  "min_reports": 3,
+  "window_days": 30,
+  "max_window_days": 90,
+  "freshness_days": 14,
+  "max_freshness_days": 45,
+  "min_distinct_dates": 2,
+  "outlier_mad_k": 6.0,
+  "outlier_ratio": 3.0,
+  "spread_ratio": 2.5,
+  "max_replans": 2,
+  "top_k": 5,
+  "clean_price_ratio": 4.0,
+  "clean_supply_ratio": 20.0,
+  "rain_high_mm_3d": 40.0,
+  "rain_medium_mm_3d": 15.0,
+  "rain_high_prob": 80.0,
+  "rain_medium_prob": 60.0,
+  "trend_flat_pct_per_week": 1.0,
+  "trend_hold_pct_per_week": 3.0
+}
