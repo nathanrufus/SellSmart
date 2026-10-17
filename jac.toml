@@ -8,8 +8,8 @@ jac-version = "==0.37.25"
 
 [dependencies]
 [dependencies.pypi]
-openpyxl = ">=3.1.0"
 jac-scale = "*"
+openpyxl = "~=3.1"
 
 [dependencies.npm]
 react = "^19.2.0"
@@ -28,6 +28,9 @@ typescript = "^5.3.3"
 tailwindcss = "latest"
 "@tailwindcss/vite" = "latest"
 
+[client.vite]
+plugins = ["tailwindcss()"]
+lib_imports = ["import tailwindcss from '@tailwindcss/vite'"]
 
 
 [dev-dependencies]
