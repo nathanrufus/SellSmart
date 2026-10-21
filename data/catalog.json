@@ -1,10 +1,326 @@
 {
-  "built_at": "2026-10-17T12:25:00+00:00",
+  "built_at": "2026-10-21T09:27:48.659597+00:00",
   "source": "https://kamis.kilimo.go.ke/site/market",
   "products": [
-    {"name": "Dry Maize", "kamis_id": 1, "sample_rows": 50},
-    {"name": "Red Sorghum", "kamis_id": 2, "sample_rows": 50},
-    {"name": "Wheat", "kamis_id": 3, "sample_rows": 50},
-    {"name": "Rice", "kamis_id": 4, "sample_rows": 50}
+    {
+      "name": "Dry Maize",
+      "kamis_id": 1,
+      "sample_rows": 50
+    },
+    {
+      "name": "Red Sorghum",
+      "kamis_id": 2,
+      "sample_rows": 50
+    },
+    {
+      "name": "Wheat",
+      "kamis_id": 3,
+      "sample_rows": 50
+    },
+    {
+      "name": "Rice",
+      "kamis_id": 4,
+      "sample_rows": 50
+    },
+    {
+      "name": "Green Grams",
+      "kamis_id": 10,
+      "sample_rows": 50
+    },
+    {
+      "name": "Ground Nuts",
+      "kamis_id": 12,
+      "sample_rows": 50
+    },
+    {
+      "name": "Beans Red Haricot (Wairimu)",
+      "kamis_id": 29,
+      "sample_rows": 50
+    },
+    {
+      "name": "Beans (Yellow-Green)",
+      "kamis_id": 30,
+      "sample_rows": 50
+    },
+    {
+      "name": "Dolichos lablab (Njahi)",
+      "kamis_id": 50,
+      "sample_rows": 50
+    },
+    {
+      "name": "Pearl Rush Millet",
+      "kamis_id": 51,
+      "sample_rows": 50
+    },
+    {
+      "name": "Finger Millet",
+      "kamis_id": 54,
+      "sample_rows": 50
+    },
+    {
+      "name": "White Sorghum",
+      "kamis_id": 56,
+      "sample_rows": 50
+    },
+    {
+      "name": "Red Irish potato",
+      "kamis_id": 57,
+      "sample_rows": 50
+    },
+    {
+      "name": "Cabbages",
+      "kamis_id": 58,
+      "sample_rows": 50
+    },
+    {
+      "name": "Sweet potatoes",
+      "kamis_id": 59,
+      "sample_rows": 50
+    },
+    {
+      "name": "Carrots",
+      "kamis_id": 60,
+      "sample_rows": 50
+    },
+    {
+      "name": "Tomatoes",
+      "kamis_id": 61,
+      "sample_rows": 50
+    },
+    {
+      "name": "Beans Rosecoco",
+      "kamis_id": 64,
+      "sample_rows": 50
+    },
+    {
+      "name": "Beans (Mwitemania)",
+      "kamis_id": 65,
+      "sample_rows": 50
+    },
+    {
+      "name": "Beans (Mwezi Moja)",
+      "kamis_id": 66,
+      "sample_rows": 50
+    },
+    {
+      "name": "Beans (Canadian wonder)",
+      "kamis_id": 67,
+      "sample_rows": 50
+    },
+    {
+      "name": "Tilapia",
+      "kamis_id": 68,
+      "sample_rows": 50
+    },
+    {
+      "name": "Goat Milk (at collection point)",
+      "kamis_id": 70,
+      "sample_rows": 50
+    },
+    {
+      "name": "Eggs",
+      "kamis_id": 72,
+      "sample_rows": 50
+    },
+    {
+      "name": "Meat Beef",
+      "kamis_id": 73,
+      "sample_rows": 50
+    },
+    {
+      "name": "Meat Mutton",
+      "kamis_id": 74,
+      "sample_rows": 50
+    },
+    {
+      "name": "Meat Indiginous Chicken",
+      "kamis_id": 75,
+      "sample_rows": 50
+    },
+    {
+      "name": "Meat Broiler",
+      "kamis_id": 76,
+      "sample_rows": 50
+    },
+    {
+      "name": "Omena",
+      "kamis_id": 77,
+      "sample_rows": 50
+    },
+    {
+      "name": "Cat Fish(Mkizi/Fume)",
+      "kamis_id": 78,
+      "sample_rows": 50
+    },
+    {
+      "name": "Haplochromis",
+      "kamis_id": 79,
+      "sample_rows": 50
+    },
+    {
+      "name": "Trout",
+      "kamis_id": 80,
+      "sample_rows": 13
+    },
+    {
+      "name": "Common Carp",
+      "kamis_id": 81,
+      "sample_rows": 50
+    },
+    {
+      "name": "Protopterus",
+      "kamis_id": 82,
+      "sample_rows": 50
+    },
+    {
+      "name": "Black bass",
+      "kamis_id": 83,
+      "sample_rows": 32
+    },
+    {
+      "name": "Labeo",
+      "kamis_id": 84,
+      "sample_rows": 36
+    },
+    {
+      "name": "Mormyrus",
+      "kamis_id": 85,
+      "sample_rows": 50
+    },
+    {
+      "name": "Eel",
+      "kamis_id": 86,
+      "sample_rows": 1
+    },
+    {
+      "name": "African butter catfish",
+      "kamis_id": 87,
+      "sample_rows": 50
+    },
+    {
+      "name": "Synodontis",
+      "kamis_id": 89,
+      "sample_rows": 50
+    },
+    {
+      "name": "Alestes",
+      "kamis_id": 90,
+      "sample_rows": 50
+    },
+    {
+      "name": "Barbus",
+      "kamis_id": 91,
+      "sample_rows": 4
+    },
+    {
+      "name": "Snappers(Tazanda)",
+      "kamis_id": 93,
+      "sample_rows": 50
+    },
+    {
+      "name": "Rabbitfish (Tafi/Tasi)",
+      "kamis_id": 94,
+      "sample_rows": 50
+    },
+    {
+      "name": "Mixed Demersal",
+      "kamis_id": 95,
+      "sample_rows": 50
+    },
+    {
+      "name": "Barracuda(Kasumba)",
+      "kamis_id": 96,
+      "sample_rows": 50
+    },
+    {
+      "name": "Tuna",
+      "kamis_id": 97,
+      "sample_rows": 50
+    },
+    {
+      "name": "Mackerel",
+      "kamis_id": 98,
+      "sample_rows": 50
+    },
+    {
+      "name": "Kingfish (Nguru)",
+      "kamis_id": 99,
+      "sample_rows": 50
+    },
+    {
+      "name": "Sharks",
+      "kamis_id": 100,
+      "sample_rows": 50
+    },
+    {
+      "name": "Sardines",
+      "kamis_id": 101,
+      "sample_rows": 50
+    },
+    {
+      "name": "Swordfishes",
+      "kamis_id": 102,
+      "sample_rows": 20
+    },
+    {
+      "name": "Lobster(Kamba Mawe)",
+      "kamis_id": 103,
+      "sample_rows": 50
+    },
+    {
+      "name": "Prawns",
+      "kamis_id": 104,
+      "sample_rows": 50
+    },
+    {
+      "name": "Mud Crabs",
+      "kamis_id": 107,
+      "sample_rows": 50
+    },
+    {
+      "name": "Golden (Deep-Sea) Crabs Kaa",
+      "kamis_id": 108,
+      "sample_rows": 15
+    },
+    {
+      "name": "Fresh Water Shrimp",
+      "kamis_id": 109,
+      "sample_rows": 50
+    },
+    {
+      "name": "Octopus (Pweza)",
+      "kamis_id": 110,
+      "sample_rows": 50
+    },
+    {
+      "name": "Cuttlefish",
+      "kamis_id": 111,
+      "sample_rows": 50
+    },
+    {
+      "name": "Squid(Ngisi)",
+      "kamis_id": 112,
+      "sample_rows": 50
+    },
+    {
+      "name": "Oysters",
+      "kamis_id": 113,
+      "sample_rows": 9
+    },
+    {
+      "name": "Fish Oil",
+      "kamis_id": 114,
+      "sample_rows": 50
+    },
+    {
+      "name": "Fish Maws",
+      "kamis_id": 115,
+      "sample_rows": 50
+    },
+    {
+      "name": "Nile Perch Skins",
+      "kamis_id": 117,
+      "sample_rows": 50
+    }
   ]
 }

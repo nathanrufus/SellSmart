@@ -3,7 +3,7 @@ import json;
 import time;
 import uuid;
 import from datetime { datetime, timezone }
-import from src.graph.nodes { Product, Listing, AdviceRecord, GraphMeta }
+import from src.graph.nodes { Product, Listing, AdviceRecord, GraphMeta ,Lists }
 import from src.graph.loader { ensure_loaded }
 import from src.agents.walkers { GatherMarkets, WeatherAnalyst }
 import from src.agents.planner { plan_question }

@@ -4,11 +4,22 @@
       "product": "Dry Maize",
       "kamis_id": 1,
       "source_url": "https://kamis.kilimo.go.ke/site/market?product=1&per_page=20000&export=excel",
-      "retrieved_at": "2026-10-17T12:26:02.053269+00:00",
-      "sha256": "72ea270f9feae744b6311bad535ef1e5a4c68066fd6f9118d54b973d8c420bf6",
+      "retrieved_at": "2026-10-21T08:10:21.211301+00:00",
+      "sha256": "0031707989609f8cacd61ebc0fd582b8363de0e4d2b97db3c330362298251e12",
       "rows": 20000,
-      "first_date": "2021-11-24",
-      "last_date": "2026-10-17",
+      "first_date": "2021-11-25",
+      "last_date": "2026-10-21",
+      "truncated_suspected": true
+    },
+    "beans_rosecoco.xlsx": {
+      "product": "Beans Rosecoco",
+      "kamis_id": 64,
+      "source_url": "https://kamis.kilimo.go.ke/site/market?product=64&per_page=20000&export=excel",
+      "retrieved_at": "2026-10-21T12:25:58.846192+00:00",
+      "sha256": "edee2a004f1f4613df22615b1e2d10869f5ebc601bf4c7bf990991e38da38a6b",
+      "rows": 20000,
+      "first_date": "2008-01-21",
+      "last_date": "2026-10-21",
       "truncated_suspected": true
     }
   },

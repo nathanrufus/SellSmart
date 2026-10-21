@@ -23,7 +23,7 @@ def:pub QualityPanel(q: any) -> JsxElement {
         </div>
         {q["synthetic"] and <p className="mb-3 rounded-lg bg-amber-50 px-3 py-2 text-sm text-amber-900">This dataset is synthetic demo data.</p>}
         <div className="mb-4 flex flex-wrap gap-2">
-            {[<Badge key={k} text={k.replace("_", " ") + ": " + str(reasons[k])} tone="amber"/> for k in reasons]}
+             {[<Badge key={k} text={k.replace("_", " ") + ": " + str(reasons[k])} tone="amber"/> for k in Object.keys(reasons)]}
         </div>
         <div className="overflow-x-auto">
             <table className="w-full text-left text-sm">
