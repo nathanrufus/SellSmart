@@ -1,0 +1,37 @@
+{
+  "products": [
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "rows_read": 20000,
+      "rows_kept": 19385,
+      "rows_quarantined": 674,
+      "quarantine_by_reason": {
+        "duplicate_row": 353,
+        "no_price": 3,
+        "price_outlier_vs_product_median": 259,
+        "supply_outlier": 59
+      },
+      "first_date": "2021-11-24",
+      "last_date": "2026-10-17",
+      "markets": 222,
+      "counties": 47,
+      "mapped_columns": {
+        "commodity": "Commodity",
+        "classification": "Classification",
+        "grade": "Grade",
+        "market": "Market",
+        "wholesale": "Wholesale",
+        "retail": "Retail",
+        "supply": "Supply Volume",
+        "county": "County",
+        "date": "Date"
+      },
+      "unmapped_headers": [
+        "Sex"
+      ],
+      "truncated_suspected": true
+    }
+  ],
+  "synthetic": false
+}

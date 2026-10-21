@@ -1,0 +1,16 @@
+{
+  "files": {
+    "dry_maize.xlsx": {
+      "product": "Dry Maize",
+      "kamis_id": 1,
+      "source_url": "https://kamis.kilimo.go.ke/site/market?product=1&per_page=20000&export=excel",
+      "retrieved_at": "2026-10-17T12:26:02.053269+00:00",
+      "sha256": "72ea270f9feae744b6311bad535ef1e5a4c68066fd6f9118d54b973d8c420bf6",
+      "rows": 20000,
+      "first_date": "2021-11-24",
+      "last_date": "2026-10-17",
+      "truncated_suspected": true
+    }
+  },
+  "synthetic": false
+}

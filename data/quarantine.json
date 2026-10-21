@@ -1,0 +1,5396 @@
+{
+  "rows": [
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "48",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "49",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "50",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "51",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "52",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "53",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "54",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "168",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "294",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "310",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "345",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "350",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "351",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "398",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "494",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "534",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "535",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "888",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "955",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "1023",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "1110",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "1111",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "1112",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "1151",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "1204",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "1879",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "1923",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "2323",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "2326",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "2328",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "2329",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "2345",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "2346",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "2349",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "2384",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "2449",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "2511",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "2512",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "2513",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "2514",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "2515",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "2601",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "2602",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "2645",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "2721",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "2731",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "2732",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "2733",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "2781",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "2790",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "2791",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "2792",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "2793",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "2794",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "2824",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "2825",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "2826",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "2850",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "2879",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "2913",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "2963",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "2964",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "3103",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "3104",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "3105",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "3106",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "3107",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "3108",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "3109",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "3110",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "3111",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "3112",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "3113",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "3114",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "3115",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "3116",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "3117",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "3118",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "3119",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "3120",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "3121",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "3122",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "3123",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "3124",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "3125",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "3126",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "3128",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "3141",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "3228",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "3374",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "3900",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "3950",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "3990",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "3991",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "3992",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "4070",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "4089",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "4090",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "4252",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "4253",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "4270",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "4413",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "4454",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "4467",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "4551",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "4698",
+      "reason": "no_price",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "4740",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "4785",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "5284",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "5315",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "5619",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "5930",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "6068",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "6189",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "6274",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "6440",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "6558",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "6803",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "6805",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "6806",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "7019",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "7053",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "7054",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "7131",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "7304",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "7308",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "7347",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "7538",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "7630",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "7644",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "7707",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "7810",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "7930",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "8271",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "8364",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "8419",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "8482",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "8516",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "8599",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "8600",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "8643",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "8646",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "8752",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "8803",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "8849",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "9369",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "9656",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "10084",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "10085",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "10086",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "10112",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "10183",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "10184",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "10333",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "10334",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "10376",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "10387",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "10388",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "10390",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "10409",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "10410",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "10414",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "10432",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "10433",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "10465",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "10534",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "10535",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "10536",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "10541",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "10542",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "10545",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "10546",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "10564",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "10565",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "10567",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "10568",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "10569",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "10570",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "10572",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "10573",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "10574",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "10575",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "10579",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "10580",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "10613",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "10614",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "10634",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "10635",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "10644",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "10645",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "10651",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "10794",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "10795",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "10816",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "10856",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "10932",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "10933",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "10991",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "11201",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "11202",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "11232",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "11309",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "11393",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "11397",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "11500",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "11511",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "11573",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "11712",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "11820",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "11988",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "12487",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "12527",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "12572",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "12645",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "12665",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "12823",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "12826",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "13187",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "13196",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "13224",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "13262",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "13297",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "13309",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "13323",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "13328",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "13408",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "13570",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "13641",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "13731",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "13732",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "13733",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "13734",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "13735",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "13773",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "13812",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "13831",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "13878",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "13936",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "14071",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "14418",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "14526",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "14527",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "14554",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "14600",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "14617",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "14618",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "14787",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "14879",
+      "reason": "no_price",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "14914",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "14920",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "14991",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "14992",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "14993",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "14994",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "15019",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "15028",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "15030",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "15031",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "15067",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "15143",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "15152",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "15204",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "15223",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "15413",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "15476",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "15516",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "15530",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "15531",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "15557",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "15650",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "15653",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "15656",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "15709",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "15737",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "15752",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "15791",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "15890",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "15910",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "15920",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "15963",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "15997",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "16001",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "16025",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "16131",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "16174",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "16175",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "16184",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "16188",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "16189",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "16190",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "16191",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "16192",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "16194",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "16197",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "16198",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "16199",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "16265",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "16284",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "16285",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "16286",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "16288",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "16407",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "16578",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "16628",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "16655",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "16717",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "16718",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "16819",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "16828",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "16831",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "16879",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "16924",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "16935",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "16964",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "16965",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "16998",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "17002",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "17003",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "17032",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "17035",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "17049",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "17055",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "17120",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "17177",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "17181",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "17237",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "17238",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "17314",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "17418",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "17429",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "17434",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "17435",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "17436",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "17437",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "17438",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "17439",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "17440",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "17491",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "17556",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "17804",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "17848",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "17849",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "17894",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "18082",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "18337",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "18515",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "18562",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "18630",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "18709",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "18899",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "19031",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "19448",
+      "reason": "no_price",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "19654",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "19812",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "19840",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "19996",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "129",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "0.45 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "271",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "13.21 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "272",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "1.11 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "336",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "810.0 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "359",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "4100.0 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "423",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "450.0 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "490",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "450.0 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "767",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "0.02 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "846",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "4.22 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "1229",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "4300.0 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "1355",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "4500.0 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "1407",
+      "reason": "supply_outlier",
+      "action": "field_nulled",
+      "detail": "145000.0 vs typical 5800.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "1430",
+      "reason": "supply_outlier",
+      "action": "field_nulled",
+      "detail": "145000.0 vs typical 5800.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "1632",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "466.68 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "1731",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "5.0 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "1908",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "3800.0 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "2078",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "860.0 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "2256",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "0.48 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "2426",
+      "reason": "supply_outlier",
+      "action": "field_nulled",
+      "detail": "70000.0 vs typical 990.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "2480",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "6.67 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "2653",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "0.02 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "2689",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "3500.0 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "2983",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "5.0 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "3146",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "3700.0 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "3168",
+      "reason": "supply_outlier",
+      "action": "field_nulled",
+      "detail": "4500000.0 vs typical 16500.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "3180",
+      "reason": "supply_outlier",
+      "action": "field_nulled",
+      "detail": "120000.0 vs typical 5000.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "3214",
+      "reason": "supply_outlier",
+      "action": "field_nulled",
+      "detail": "4500000.0 vs typical 16500.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "3293",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "3.33 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "3315",
+      "reason": "supply_outlier",
+      "action": "field_nulled",
+      "detail": "99999999.99 vs typical 16500.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "4065",
+      "reason": "supply_outlier",
+      "action": "field_nulled",
+      "detail": "260000.0 vs typical 10800.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "4471",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "0.03 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "4568",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "0.32 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "4602",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "0.01 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "4926",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "3.89 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "4993",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "1001.0 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "5109",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "302.0 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "5260",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "10.0 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "5291",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "10.0 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "5350",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "10.0 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "5396",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "3600.0 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "5427",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "10.0 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "5466",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "13.33 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "5488",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "900.0 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "5500",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "10.0 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "5547",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "10.0 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "5550",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "0.02 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "5808",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "4500.0 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "5885",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "4.44 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "5896",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "5.33 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "5917",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "5.89 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "6156",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "5.56 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "6213",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "555.56 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "6220",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "1.56 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "6284",
+      "reason": "supply_outlier",
+      "action": "field_nulled",
+      "detail": "20000.0 vs typical 400.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "6334",
+      "reason": "supply_outlier",
+      "action": "field_nulled",
+      "detail": "18000.0 vs typical 90.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "6394",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "4100.0 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "6409",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "4.56 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "6426",
+      "reason": "supply_outlier",
+      "action": "field_nulled",
+      "detail": "183000.0 vs typical 90.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "6434",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "666.67 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "6597",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "240.0 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "6652",
+      "reason": "supply_outlier",
+      "action": "field_nulled",
+      "detail": "6500000.0 vs typical 100000.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "6664",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "1.33 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "6678",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "4800.0 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "6878",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "1.33 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "7025",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "0.02 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "7119",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "700.0 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "7199",
+      "reason": "supply_outlier",
+      "action": "field_nulled",
+      "detail": "10000.0 vs typical 325.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "7385",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "0.03 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "7419",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "5000.0 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "7422",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "5.56 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "7446",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "0.02 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "7534",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "0.53 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "7656",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "7000.0 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "7719",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "300.0 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "7769",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "8.0 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "7835",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "6000.0 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "7841",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "0.7 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "7887",
+      "reason": "supply_outlier",
+      "action": "field_nulled",
+      "detail": "950000.0 vs typical 45000.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "8008",
+      "reason": "supply_outlier",
+      "action": "field_nulled",
+      "detail": "10000.0 vs typical 325.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "8016",
+      "reason": "supply_outlier",
+      "action": "field_nulled",
+      "detail": "1200000.0 vs typical 45000.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "8032",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "1.6 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "8099",
+      "reason": "supply_outlier",
+      "action": "field_nulled",
+      "detail": "10000.0 vs typical 325.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "8155",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "0.01 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "8201",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "8.89 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "8260",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "1.15 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "8282",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "10.0 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "8317",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "0.76 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "8367",
+      "reason": "supply_outlier",
+      "action": "field_nulled",
+      "detail": "333000.0 vs typical 90.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "8413",
+      "reason": "supply_outlier",
+      "action": "field_nulled",
+      "detail": "4730000.0 vs typical 90.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "8496",
+      "reason": "supply_outlier",
+      "action": "field_nulled",
+      "detail": "12000.0 vs typical 400.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "8498",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "10.0 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "8636",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "1.2 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "8642",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "6.67 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "8706",
+      "reason": "supply_outlier",
+      "action": "field_nulled",
+      "detail": "78000.0 vs typical 90.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "8718",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "6500.0 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "8778",
+      "reason": "supply_outlier",
+      "action": "field_nulled",
+      "detail": "9000.0 vs typical 400.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "8889",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "6.67 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "8931",
+      "reason": "supply_outlier",
+      "action": "field_nulled",
+      "detail": "9600.0 vs typical 90.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "8947",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "1.89 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "8998",
+      "reason": "supply_outlier",
+      "action": "field_nulled",
+      "detail": "690000.0 vs typical 90.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "9072",
+      "reason": "supply_outlier",
+      "action": "field_nulled",
+      "detail": "270000.0 vs typical 2700.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "9078",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "2480.0 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "9115",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "6.67 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "9362",
+      "reason": "supply_outlier",
+      "action": "field_nulled",
+      "detail": "72000.0 vs typical 2700.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "9419",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "2400.0 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "9436",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "7.22 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "9448",
+      "reason": "supply_outlier",
+      "action": "field_nulled",
+      "detail": "270000.0 vs typical 90.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "9456",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "4000.0 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "9505",
+      "reason": "supply_outlier",
+      "action": "field_nulled",
+      "detail": "900000.0 vs typical 90.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "9568",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "6.67 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "9592",
+      "reason": "supply_outlier",
+      "action": "field_nulled",
+      "detail": "400000.0 vs typical 90.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "9633",
+      "reason": "supply_outlier",
+      "action": "field_nulled",
+      "detail": "810000.0 vs typical 4500.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "9637",
+      "reason": "supply_outlier",
+      "action": "field_nulled",
+      "detail": "2500.0 vs typical 90.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "9691",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "0.02 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "9695",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "6.67 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "9699",
+      "reason": "supply_outlier",
+      "action": "field_nulled",
+      "detail": "1800000.0 vs typical 90.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "9742",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "644.44 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "9803",
+      "reason": "supply_outlier",
+      "action": "field_nulled",
+      "detail": "90000.0 vs typical 2100.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "9842",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "7.78 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "9865",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "0.01 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "9897",
+      "reason": "supply_outlier",
+      "action": "field_nulled",
+      "detail": "2700.0 vs typical 90.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "9898",
+      "reason": "supply_outlier",
+      "action": "field_nulled",
+      "detail": "94500.0 vs typical 90.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "10071",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "6000.0 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "10087",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "585.0 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "10179",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "6111.11 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "10492",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "0.02 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "10577",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "0.9 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "10586",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "0.02 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "10638",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "6.67 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "10688",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "1750.0 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "10727",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "1.11 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "10868",
+      "reason": "supply_outlier",
+      "action": "field_nulled",
+      "detail": "36000.0 vs typical 1500.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "10915",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "0.02 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "10938",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "1.6 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "11149",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "2300.0 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "11233",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "4.67 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "11234",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "4.0 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "11236",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "0.01 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "11243",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "5.0 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "11263",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "1.67 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "11320",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "5800.0 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "11350",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "0.6 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "11384",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "0.61 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "11422",
+      "reason": "supply_outlier",
+      "action": "field_nulled",
+      "detail": "150000.0 vs typical 4250.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "11583",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "0.6 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "11624",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "6.67 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "11626",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "5.56 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "11673",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "6800.0 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "11805",
+      "reason": "supply_outlier",
+      "action": "field_nulled",
+      "detail": "300000.0 vs typical 10800.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "11867",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "7.22 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "11868",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "6000.0 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "11886",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "5.86 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "11918",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "5.2 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "11962",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "6.8 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "12177",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "6.67 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "12280",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "5.0 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "12445",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "700.0 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "12555",
+      "reason": "supply_outlier",
+      "action": "field_nulled",
+      "detail": "360000.0 vs typical 2700.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "12744",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "5800.0 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "12828",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "722.22 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "12957",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "0.02 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "13077",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "0.31 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "13091",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "268.2 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "13243",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "2.06 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "13336",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "5.56 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "13407",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "5800.0 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "13438",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "800.0 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "13587",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "6000.0 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "13631",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "340.0 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "13669",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "7.08 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "13739",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "6.67 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "13767",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "0.56 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "13865",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "0.98 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "13913",
+      "reason": "supply_outlier",
+      "action": "field_nulled",
+      "detail": "10000.0 vs typical 400.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "13948",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "0.01 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "13953",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "2700.0 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "14083",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "5500.0 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "14134",
+      "reason": "supply_outlier",
+      "action": "field_nulled",
+      "detail": "1800000.0 vs typical 45200.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "14138",
+      "reason": "supply_outlier",
+      "action": "field_nulled",
+      "detail": "400000.0 vs typical 5000.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "14231",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "0.63 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "14287",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "0.01 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "14310",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "0.77 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "14311",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "0.77 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "14351",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "6000.0 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "14694",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "480.0 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "14758",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "6000.0 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "14777",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "7.22 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "14890",
+      "reason": "supply_outlier",
+      "action": "field_nulled",
+      "detail": "740000.0 vs typical 18000.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "14916",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "4.4 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "14942",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "7.0 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "15012",
+      "reason": "supply_outlier",
+      "action": "field_nulled",
+      "detail": "10000.0 vs typical 400.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "15018",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "7.22 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "15050",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "0.67 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "15078",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "0.02 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "15093",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "0.02 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "15136",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "230.0 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "15184",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "2.0 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "15206",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "577.78 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "15208",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "7.0 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "15271",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "0.52 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "15303",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "5.33 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "15307",
+      "reason": "supply_outlier",
+      "action": "field_nulled",
+      "detail": "60000.0 vs typical 680.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "15378",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "2.0 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "15425",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "0.01 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "15491",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "0.07 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "15548",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "266.67 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "15616",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "1080.0 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "15617",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "1620.0 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "15694",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "6000.0 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "15727",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "857.14 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "15731",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "5000.0 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "15779",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "6500.0 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "15786",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "0.71 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "15811",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "0.67 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "15934",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "0.78 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "15943",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "0.63 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "15954",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "900.0 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "15965",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "0.02 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "15991",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "0.67 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "16032",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "722.22 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "16089",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "0.67 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "16103",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "230.0 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "16110",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "450.0 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "16122",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "0.02 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "16166",
+      "reason": "supply_outlier",
+      "action": "field_nulled",
+      "detail": "3000.0 vs typical 90.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "16169",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "3000.0 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "16261",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "0.01 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "16262",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "3000.0 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "16272",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "0.72 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "16280",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "0.01 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "16281",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "0.12 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "16287",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "0.24 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "16311",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "0.62 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "16318",
+      "reason": "supply_outlier",
+      "action": "field_nulled",
+      "detail": "110000.0 vs typical 4500.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "16344",
+      "reason": "supply_outlier",
+      "action": "field_nulled",
+      "detail": "300000.0 vs typical 9000.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "16363",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "0.59 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "16486",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "0.42 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "16548",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "555.0 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "16549",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "555.0 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "16643",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "1.33 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "16763",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "0.02 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "16797",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "555.56 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "16875",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "0.02 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "16884",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "555.56 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "16894",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "0.04 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "16904",
+      "reason": "supply_outlier",
+      "action": "field_nulled",
+      "detail": "650000.0 vs typical 22000.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "16911",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "3.33 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "16916",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "0.02 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "17114",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "466.67 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "17242",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "0.02 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "17265",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "4.44 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "17334",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "0.03 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "17450",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "0.02 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "17502",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "2500.0 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "17536",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "3.33 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "17606",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "3000.0 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "17619",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "4.44 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "17642",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "3200.0 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "17643",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "3.33 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "17741",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "5.0 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "17758",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "1.0 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "17794",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "5.0 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "17815",
+      "reason": "supply_outlier",
+      "action": "field_nulled",
+      "detail": "560000.0 vs typical 18000.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "17864",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "2044.44 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "17887",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "0.03 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "17939",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "3.22 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "17949",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "0.39 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "17980",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "3350.0 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "18030",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "1.48 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "18077",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "2.0 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "18129",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "0.03 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "18155",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "3.11 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "18249",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "1100.0 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "18314",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "3.5 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "18342",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "2.0 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "18416",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "0.28 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "18554",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "0.39 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "18639",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "444.44 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "18745",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "400.0 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "18771",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "2.9 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "18794",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "1.18 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "18795",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "1.12 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "18839",
+      "reason": "supply_outlier",
+      "action": "field_nulled",
+      "detail": "200000.0 vs typical 6000.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "18963",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "4.0 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "19010",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "13.2 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "19023",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "0.39 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "19036",
+      "reason": "supply_outlier",
+      "action": "field_nulled",
+      "detail": "200000.0 vs typical 6000.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "19092",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "1.5 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "19096",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "3000.0 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "19155",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "0.44 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "19192",
+      "reason": "supply_outlier",
+      "action": "field_nulled",
+      "detail": "200000.0 vs typical 6000.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "19195",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "0.01 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "19203",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "0.9 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "19288",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "0.39 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "19289",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "0.39 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "19333",
+      "reason": "supply_outlier",
+      "action": "field_nulled",
+      "detail": "300000.0 vs typical 6000.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "19395",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "0.33 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "19419",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "3400.0 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "19455",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "10.0 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "19545",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "0.03 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "19587",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "0.03 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "19609",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "0.72 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "19634",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "13.33 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "19641",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "0.78 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "19642",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "3.33 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "19691",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "2600.0 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "19705",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "11.11 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "19707",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "0.72 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "19774",
+      "reason": "supply_outlier",
+      "action": "field_nulled",
+      "detail": "200000.0 vs typical 6000.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "19809",
+      "reason": "supply_outlier",
+      "action": "field_nulled",
+      "detail": "985000.0 vs typical 6000.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "19810",
+      "reason": "supply_outlier",
+      "action": "field_nulled",
+      "detail": "968000.0 vs typical 6000.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "19818",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "0.33 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "19831",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "11.11 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "19879",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "13.33 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "19916",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "300.0 vs median 55.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "19929",
+      "reason": "supply_outlier",
+      "action": "field_nulled",
+      "detail": "726100.0 vs typical 16000.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "19944",
+      "reason": "supply_outlier",
+      "action": "field_nulled",
+      "detail": "250000.0 vs typical 6000.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "19961",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "0.39 vs median 55.0"
+    }
+  ]
+}

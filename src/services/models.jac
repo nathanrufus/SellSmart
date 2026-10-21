@@ -1,4 +1,3 @@
-import from dataclasses { asdict }
 
 obj PriceRec {
     has report_id: str,
@@ -148,7 +147,33 @@ obj BacktestResult {
         rows: list[BacktestWeek] = [];
 }
 
-def to_dict(x: any) -> dict[str, any] {
-    d = asdict(x as object);
-    return d as dict[str, any];
+def to_dict(x: any) -> any {
+    if x is None {
+        return None;
+    }
+    if isinstance(x, list) {
+        out_l: list[any] = [];
+        for i in x {
+            out_l.append(to_dict(i));
+        }
+        return out_l;
+    }
+    if isinstance(x, dict) {
+        out_d: dict[str, any] = {};
+        for k in x.keys() {
+            out_d[str(k)] = to_dict(x[k]);
+        }
+        return out_d;
+    }
+    if hasattr(x, "__dict__") {
+        out_o: dict[str, any] = {};
+        attrs = vars(x);
+        for k in attrs.keys() {
+            if not str(k).startswith("_") {
+                out_o[str(k)] = to_dict(attrs[k]);
+            }
+        }
+        return out_o;
+    }
+    return x;
 }

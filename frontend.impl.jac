@@ -2,14 +2,12 @@
 
 impl app.loadInitial -> None {
     try {
-        h = root spawn api_health();
-        health = h.reports[0];
-        c = root spawn api_counties();
-        counties = arr(c.reports[0]["counties"]);
-        q = root spawn api_quality();
-        quality = q.reports[0];
+        health = await apiGet("/api/health");
+        c = await apiGet("/api/counties");
+        counties = arr(c["counties"]);
+        quality = await apiGet("/api/quality");
     } except Exception as ex {
-        error = "Could not reach the Soko API. Is the server running?";
+        error = "Could not reach the Soko API: " + str(ex);
     }
 }
 
@@ -24,15 +22,13 @@ impl app.askSoko(e: FormEvent) -> None {
     backtest = None;
     try {
         n = float(bags) if bags.strip() else 0.0;
-        r = root spawn ask(question=question, county=county, quantity_bags=n, language=language);
-        result = r.reports[0];
+        result = await apiPost("/api/ask", {"question": question, "county": county, "quantity_bags": n, "language": language});
         rec = result["recommendation"];
         if rec {
-            hh = root spawn api_history(product=txt(result["plan"]["product"]), market=txt(rec["market"]), days=60);
-            history = hh.reports[0];
+            history = await apiGet("/api/history?product=" + encodeURIComponent(txt(result["plan"]["product"])) + "&market=" + encodeURIComponent(txt(rec["market"])) + "&days=60");
         }
     } except Exception as ex {
-        error = "Something went wrong while asking Soko. Please try again.";
+        error = "Something went wrong while asking Soko: " + str(ex);
     }
     loading = False;
 }
@@ -44,8 +40,8 @@ impl app.searchProducts(e: ChangeEvent) -> None {
         return;
     }
     try {
-        r = root spawn api_product_search(q=productQuery, limit=8);
-        matches = arr(r.reports[0]["matches"]);
+        r = await apiGet("/api/products/search?q=" + encodeURIComponent(productQuery) + "&limit=8");
+        matches = arr(r["matches"]);
     } except Exception as ex {
         matches = [];
     }
@@ -57,8 +53,7 @@ impl app.runBacktest -> None {
     }
     btLoading = True;
     try {
-        r = root spawn api_backtest(product=txt(result["plan"]["product"]), county=txt(result["plan"]["county"]), weeks=26);
-        backtest = r.reports[0];
+        backtest = await apiGet("/api/backtest?product=" + encodeURIComponent(txt(result["plan"]["product"])) + "&county=" + encodeURIComponent(txt(result["plan"]["county"])) + "&weeks=26");
     } except Exception as ex {
         error = "The backtest could not run.";
     }

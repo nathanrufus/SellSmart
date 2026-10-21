@@ -30,11 +30,17 @@ def:pub txt(x: any) -> str {
 }
 
 def:pub arr(x: any) -> list[any] {
-    return x as list[any];
+    if x {
+        return x as list[any];
+    }
+    return [];
 }
 
 def:pub dct(x: any) -> dict[str, any] {
-    return x as dict[str, any];
+    if x {
+        return x as dict[str, any];
+    }
+    return {};
 }
 
 def:pub kes(n: any) -> str {

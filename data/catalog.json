@@ -1,0 +1,10 @@
+{
+  "built_at": "2026-10-17T12:25:00+00:00",
+  "source": "https://kamis.kilimo.go.ke/site/market",
+  "products": [
+    {"name": "Dry Maize", "kamis_id": 1, "sample_rows": 50},
+    {"name": "Red Sorghum", "kamis_id": 2, "sample_rows": 50},
+    {"name": "Wheat", "kamis_id": 3, "sample_rows": 50},
+    {"name": "Rice", "kamis_id": 4, "sample_rows": 50}
+  ]
+}
