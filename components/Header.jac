@@ -1,25 +1,25 @@
-"""Top bar: brand, data freshness, model status and the synthetic data warning."""
+"""Top bar: brand, data freshness and the language switch."""
 
-import from .Ui { Badge, arr }
+def lang_class(on: bool) -> str {
+    return "min-h-11 px-4 text-sm font-semibold " + ("bg-soko-green text-white" if on else "bg-white text-soko-green");
+}
 
-def:pub Header(health: any) -> JsxElement {
+def:pub Header(health: any, language: str, onLang: Callable[[str], None]) -> JsxElement {
     data = health["data"] if health else None;
-    llm = health["llm"] if health else None;
     synthetic = bool(data["synthetic"]) if data else False;
-    llm_on = bool(llm["enabled"]) if llm else False;
-    has_key = (len(arr(llm["api_keys_present"])) > 0) if llm else False;
-    return <header className="border-b border-stone-200 bg-white">
-        {synthetic and <div className="bg-amber-100 px-4 py-2 text-center text-sm text-amber-900">Demo data: these prices are synthetic and for development only.</div>}
-        <div className="mx-auto flex max-w-6xl flex-wrap items-center justify-between gap-3 px-4 py-4">
-            <div>
-                <h1 className="text-2xl font-bold tracking-tight text-emerald-700">Soko</h1>
-                <p className="text-sm text-stone-500">Where to sell, what you keep, and when to wait. Kenyan market prices from KAMIS.</p>
+    return <header className="border-b border-soko-line bg-white">
+        {synthetic and <div className="bg-soko-maize px-4 py-2 text-center text-sm text-soko-ink">Demo data: these prices are synthetic and for development only.</div>}
+        <div className="mx-auto flex max-w-6xl flex-wrap items-center justify-between gap-x-6 gap-y-3 px-4 py-4 sm:px-8">
+            <div className="flex items-baseline gap-3">
+                <span className="text-3xl font-extrabold tracking-tight text-soko-deep">Soko</span>
+                <span className="hidden text-base text-soko-muted sm:inline">Where to sell, what you keep, and when to wait</span>
             </div>
-            <div className="flex flex-wrap items-center gap-2">
-                {data and <Badge text={"Prices to " + str(data["latest_day"])} tone="blue"/>}
-                {data and <Badge text={str(data["reports"]) + " reports, " + str(data["markets"]) + " markets"} tone="stone"/>}
-                {data and <Badge text={str(data["counties_with_weather"]) + " counties with forecast"} tone="stone"/>}
-                {llm and <Badge text={("AI agents on: " + str(llm["model"])) if (llm_on and has_key) else ("AI agents on, no key" if llm_on else "Rules only")} tone={"green" if (llm_on and has_key) else "amber"}/>}
+            <div className="flex items-center gap-4">
+                {data and <span className="hidden text-sm text-soko-muted md:inline">{"Prices from KAMIS, latest " + str(data["latest_day"])}</span>}
+                <div className="flex overflow-hidden rounded-full border-2 border-soko-green">
+                    <button type="button" aria-pressed={language == "en"} onClick={lambda (e: MouseEvent) { onLang("en"); }} className={lang_class(language == "en")}>English</button>
+                    <button type="button" aria-pressed={language == "sw"} onClick={lambda (e: MouseEvent) { onLang("sw"); }} className={lang_class(language == "sw")}>Kiswahili</button>
+                </div>
             </div>
         </div>
     </header>;

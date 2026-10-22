@@ -30,15 +30,39 @@ def:pub txt(x: any) -> str {
 }
 
 def:pub arr(x: any) -> list[any] {
-    return x as list[any];
+    if x {
+        return x as list[any];
+    }
+    return [];
 }
 
 def:pub dct(x: any) -> dict[str, any] {
-    return x as dict[str, any];
+    if x {
+        return x as dict[str, any];
+    }
+    return {};
+}
+
+# Round half away from zero; same result on the server and in the browser.
+def:pub rnd(x: any) -> int {
+    v = num(x);
+    if v < 0 {
+        return -int(-v + 0.5);
+    }
+    return int(v + 0.5);
 }
 
 def:pub kes(n: any) -> str {
-    return "KES " + str(n);
+    r = rnd(n);
+    digits = str(abs(r));
+    out = "";
+    i = len(digits);
+    while i > 3 {
+        out = "," + digits[i - 3:i] + out;
+        i -= 3;
+    }
+    out = digits[0:i] + out;
+    return "KES " + ("-" if r < 0 else "") + out;
 }
 
 def:pub Badge(text: str, tone: str = "stone") -> JsxElement {
@@ -63,4 +87,23 @@ def:pub Stat(label: str, value: str, hint: str = "", highlight: bool = False) ->
         <p className="mt-1 text-2xl font-semibold">{value}</p>
         {hint != "" and <p className={sub}>{hint}</p>}
     </div>;
+}
+
+def:pub km(n: any) -> str {
+    return str(rnd(n)) + " km";
+}
+
+def:pub whole(n: any) -> str {
+    return str(rnd(n));
+}
+
+def:pub one(n: any) -> str {
+    return str(rnd(num(n) * 10.0) / 10.0);
+}
+
+def:pub share(a: float, b: float) -> float {
+    if b <= 0.0 {
+        return 0.0;
+    }
+    return a / b * 100.0;
 }

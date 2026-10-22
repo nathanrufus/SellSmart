@@ -5,3 +5,9 @@ node_modules/
 data/raw/
 .env/
 .env
+.jac/
+data/raw/
+data/clean/
+data/manifest.json
+data/quarantine.json
+__pycache__/

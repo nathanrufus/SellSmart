@@ -60,9 +60,10 @@ def:pub RankingTable(rows: list[any], excluded: list[any]) -> JsxElement {
                         <span className="font-medium">{ex["market"]}</span>
                         <span className="text-rose-700">{" " + joinReasons(arr(ex["reasons"]))}</span>
                     </li>
-                    for (i, ex) in enumerate(excluded)
+                    for (i, ex) in enumerate(excluded[:5])
                 ]}
             </ul>
+            {len(excluded) > 5 and <p className="mt-2 text-xs text-stone-500">{"and " + str(len(excluded) - 5) + " more markets rejected for thin or stale data"}</p>}
         </div>}
     </Card>;
 }

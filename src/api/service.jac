@@ -1,6 +1,6 @@
 import os;
 import from datetime { datetime, timezone }
-import from src.graph.nodes { Product, Listing, GraphMeta, AdviceRecord }
+import from src.graph.nodes { Product, Listing, GraphMeta, AdviceRecord ,Lists}
 import from src.graph.loader { ensure_loaded, load_graph, get_meta }
 import from src.agents.walkers { GatherMarkets, WeatherAnalyst }
 import from src.agents.orchestrator { product_latest, quote_dict, find_record }

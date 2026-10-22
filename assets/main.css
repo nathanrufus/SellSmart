@@ -1,1 +1,53 @@
+@import url("https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,400..800&display=swap");
 @import "tailwindcss";
+
+@theme {
+  --font-sans: "Bricolage Grotesque", ui-sans-serif, system-ui, sans-serif;
+
+  --color-soko-ink: #16241c;
+  --color-soko-ground: #f1f5ee;
+  --color-soko-line: #d3dccf;
+  --color-soko-edge: #b8c5b3;
+  --color-soko-muted: #46564c;
+  --color-soko-green: #14663a;
+  --color-soko-deep: #0f4d2e;
+  --color-soko-mid: #6fa583;
+  --color-soko-pale: #b9c7b4;
+  --color-soko-track: #e4ebe0;
+  --color-soko-maize: #ffc72c;
+  --color-soko-blue: #1f6fb2;
+  --color-soko-rain: #e4eef6;
+  --color-soko-tomato: #c4361f;
+
+  --color-emerald-50: #e8f3ec;
+  --color-emerald-100: #d2e8da;
+  --color-emerald-200: #a9d1b8;
+  --color-emerald-500: #2e8b57;
+  --color-emerald-600: #14663a;
+  --color-emerald-700: #0f4d2e;
+  --color-emerald-800: #0c3e25;
+
+  --color-stone-50: #f4f7f1;
+  --color-stone-100: #e4ebe0;
+  --color-stone-200: #d3dccf;
+  --color-stone-300: #b8c5b3;
+  --color-stone-400: #7d8c82;
+  --color-stone-500: #55655b;
+  --color-stone-600: #46564c;
+  --color-stone-700: #2e3c33;
+  --color-stone-800: #1f2d25;
+  --color-stone-900: #16241c;
+}
+
+@layer base {
+  body {
+    font-family: var(--font-sans);
+    font-variant-numeric: tabular-nums;
+    background: var(--color-soko-ground);
+    color: var(--color-soko-ink);
+  }
+  :focus-visible {
+    outline: 3px solid var(--color-soko-blue);
+    outline-offset: 2px;
+  }
+}
