@@ -1,20 +1,20 @@
 {
   "products": [
     {
-      "product": "Dry Maize",
-      "src_file": "dry_maize.xlsx",
+      "product": "Beans Rosecoco",
+      "src_file": "beans_rosecoco.xlsx",
       "rows_read": 20000,
-      "rows_kept": 19386,
-      "rows_quarantined": 673,
+      "rows_kept": 18985,
+      "rows_quarantined": 1036,
       "quarantine_by_reason": {
-        "duplicate_row": 352,
-        "no_price": 3,
-        "price_outlier_vs_product_median": 259,
-        "supply_outlier": 59
+        "duplicate_row": 759,
+        "no_price": 21,
+        "price_outlier_vs_product_median": 235,
+        "supply_outlier": 21
       },
-      "first_date": "2021-11-25",
+      "first_date": "2008-01-21",
       "last_date": "2026-10-21",
-      "markets": 221,
+      "markets": 210,
       "counties": 47,
       "mapped_columns": {
         "commodity": "Commodity",
@@ -33,21 +33,53 @@
       "truncated_suspected": true
     },
     {
-      "product": "Beans Rosecoco",
-      "src_file": "beans_rosecoco.xlsx",
-      "rows_read": 20000,
-      "rows_kept": 18985,
-      "rows_quarantined": 1036,
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "rows_read": 6000,
+      "rows_kept": 5847,
+      "rows_quarantined": 159,
       "quarantine_by_reason": {
-        "duplicate_row": 759,
-        "no_price": 21,
-        "price_outlier_vs_product_median": 235,
-        "supply_outlier": 21
+        "duplicate_row": 111,
+        "no_price": 1,
+        "price_outlier_vs_product_median": 41,
+        "supply_outlier": 6
       },
-      "first_date": "2008-01-21",
+      "first_date": "2023-11-30",
       "last_date": "2026-10-21",
-      "markets": 210,
-      "counties": 47,
+      "markets": 124,
+      "counties": 33,
+      "mapped_columns": {
+        "commodity": "Commodity",
+        "classification": "Classification",
+        "grade": "Grade",
+        "market": "Market",
+        "wholesale": "Wholesale",
+        "retail": "Retail",
+        "supply": "Supply Volume",
+        "county": "County",
+        "date": "Date"
+      },
+      "unmapped_headers": [
+        "Sex"
+      ],
+      "truncated_suspected": true
+    },
+    {
+      "product": "Green Grams",
+      "src_file": "green_grams.xlsx",
+      "rows_read": 6000,
+      "rows_kept": 5868,
+      "rows_quarantined": 135,
+      "quarantine_by_reason": {
+        "duplicate_row": 88,
+        "no_price": 1,
+        "price_outlier_vs_product_median": 43,
+        "supply_outlier": 3
+      },
+      "first_date": "2023-10-22",
+      "last_date": "2026-10-21",
+      "markets": 105,
+      "counties": 32,
       "mapped_columns": {
         "commodity": "Commodity",
         "classification": "Classification",

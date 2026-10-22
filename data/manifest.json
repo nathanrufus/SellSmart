@@ -3,11 +3,11 @@
     "dry_maize.xlsx": {
       "product": "Dry Maize",
       "kamis_id": 1,
-      "source_url": "https://kamis.kilimo.go.ke/site/market?product=1&per_page=20000&export=excel",
-      "retrieved_at": "2026-10-21T08:10:21.211301+00:00",
-      "sha256": "0031707989609f8cacd61ebc0fd582b8363de0e4d2b97db3c330362298251e12",
-      "rows": 20000,
-      "first_date": "2021-11-25",
+      "source_url": "https://kamis.kilimo.go.ke/site/market?product=1&per_page=6000&export=excel",
+      "retrieved_at": "2026-10-21T12:58:52.524390+00:00",
+      "sha256": "4621b599b8f8bc8c95bfcbf0bf0fa28a46a9d93506d3f177faa35d9ea9f8c78f",
+      "rows": 6000,
+      "first_date": "2023-11-30",
       "last_date": "2026-10-21",
       "truncated_suspected": true
     },
@@ -19,6 +19,17 @@
       "sha256": "edee2a004f1f4613df22615b1e2d10869f5ebc601bf4c7bf990991e38da38a6b",
       "rows": 20000,
       "first_date": "2008-01-21",
+      "last_date": "2026-10-21",
+      "truncated_suspected": true
+    },
+    "green_grams.xlsx": {
+      "product": "Green Grams",
+      "kamis_id": 10,
+      "source_url": "https://kamis.kilimo.go.ke/site/market?product=10&per_page=6000&export=excel",
+      "retrieved_at": "2026-10-22T08:51:44.675772+00:00",
+      "sha256": "aea0b001b1bc27f14a42475f69f87b68164bff695d33f5987b5bc252da814dfa",
+      "rows": 6000,
+      "first_date": "2023-10-22",
       "last_date": "2026-10-21",
       "truncated_suspected": true
     }

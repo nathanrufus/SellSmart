@@ -8287,6 +8287,2358 @@
       "reason": "price_outlier_vs_product_median",
       "action": "row_dropped",
       "detail": "6.09 vs median 90.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "67",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "68",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "69",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "70",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "71",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "72",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "73",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "187",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "313",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "329",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "364",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "369",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "370",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "417",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "513",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "553",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "554",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "907",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "974",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "1042",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "1129",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "1130",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "1131",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "1170",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "1223",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "1898",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "1942",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "2342",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "2345",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "2347",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "2348",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "2364",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "2365",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "2368",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "2403",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "2468",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "2530",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "2531",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "2532",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "2533",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "2534",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "2620",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "2621",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "2664",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "2740",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "2750",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "2751",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "2752",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "2800",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "2809",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "2810",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "2811",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "2812",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "2813",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "2843",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "2844",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "2845",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "2869",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "2898",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "2932",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "2982",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "2983",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "3122",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "3123",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "3124",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "3125",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "3126",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "3127",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "3128",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "3129",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "3130",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "3131",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "3132",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "3133",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "3134",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "3135",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "3136",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "3137",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "3138",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "3139",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "3140",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "3141",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "3142",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "3143",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "3144",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "3145",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "3147",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "3160",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "3247",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "3393",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "3919",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "3969",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "4009",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "4010",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "4011",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "4089",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "4108",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "4109",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "4271",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "4272",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "4289",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "4432",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "4473",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "4486",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "4570",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "4717",
+      "reason": "no_price",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "4759",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "4804",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "5303",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "5334",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "5638",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "5949",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "2",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "3870.0 vs median 44.44"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "148",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "0.45 vs median 44.44"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "291",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "1.11 vs median 44.44"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "355",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "810.0 vs median 44.44"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "378",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "4100.0 vs median 44.44"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "442",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "450.0 vs median 44.44"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "509",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "450.0 vs median 44.44"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "786",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "0.02 vs median 44.44"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "865",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "4.22 vs median 44.44"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "1248",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "4300.0 vs median 44.44"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "1374",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "4500.0 vs median 44.44"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "1426",
+      "reason": "supply_outlier",
+      "action": "field_nulled",
+      "detail": "145000.0 vs typical 6500.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "1449",
+      "reason": "supply_outlier",
+      "action": "field_nulled",
+      "detail": "145000.0 vs typical 6500.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "1651",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "466.68 vs median 44.44"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "1750",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "5.0 vs median 44.44"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "1927",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "3800.0 vs median 44.44"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "2097",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "860.0 vs median 44.44"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "2275",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "0.48 vs median 44.44"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "2499",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "6.67 vs median 44.44"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "2672",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "0.02 vs median 44.44"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "2708",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "3500.0 vs median 44.44"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "3002",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "5.0 vs median 44.44"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "3165",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "3700.0 vs median 44.44"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "3187",
+      "reason": "supply_outlier",
+      "action": "field_nulled",
+      "detail": "4500000.0 vs typical 13500.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "3233",
+      "reason": "supply_outlier",
+      "action": "field_nulled",
+      "detail": "4500000.0 vs typical 13500.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "3312",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "3.33 vs median 44.44"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "3334",
+      "reason": "supply_outlier",
+      "action": "field_nulled",
+      "detail": "99999999.99 vs typical 13500.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "4084",
+      "reason": "supply_outlier",
+      "action": "field_nulled",
+      "detail": "260000.0 vs typical 12450.0"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "4490",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "0.03 vs median 44.44"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "4587",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "0.32 vs median 44.44"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "4621",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "0.01 vs median 44.44"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "4945",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "3.89 vs median 44.44"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "5012",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "1001.0 vs median 44.44"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "5128",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "302.0 vs median 44.44"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "5279",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "10.0 vs median 44.44"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "5310",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "10.0 vs median 44.44"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "5369",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "10.0 vs median 44.44"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "5415",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "3600.0 vs median 44.44"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "5446",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "10.0 vs median 44.44"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "5507",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "900.0 vs median 44.44"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "5519",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "10.0 vs median 44.44"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "5566",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "10.0 vs median 44.44"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "5569",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "0.02 vs median 44.44"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "5827",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "4500.0 vs median 44.44"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "5904",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "4.44 vs median 44.44"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "5915",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "5.33 vs median 44.44"
+    },
+    {
+      "product": "Dry Maize",
+      "src_file": "dry_maize.xlsx",
+      "row": "5936",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "5.89 vs median 44.44"
+    },
+    {
+      "product": "Green Grams",
+      "src_file": "green_grams.xlsx",
+      "row": "157",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Green Grams",
+      "src_file": "green_grams.xlsx",
+      "row": "325",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Green Grams",
+      "src_file": "green_grams.xlsx",
+      "row": "335",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Green Grams",
+      "src_file": "green_grams.xlsx",
+      "row": "963",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Green Grams",
+      "src_file": "green_grams.xlsx",
+      "row": "964",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Green Grams",
+      "src_file": "green_grams.xlsx",
+      "row": "1016",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Green Grams",
+      "src_file": "green_grams.xlsx",
+      "row": "1901",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Green Grams",
+      "src_file": "green_grams.xlsx",
+      "row": "1965",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Green Grams",
+      "src_file": "green_grams.xlsx",
+      "row": "2039",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Green Grams",
+      "src_file": "green_grams.xlsx",
+      "row": "2151",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Green Grams",
+      "src_file": "green_grams.xlsx",
+      "row": "2152",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Green Grams",
+      "src_file": "green_grams.xlsx",
+      "row": "2156",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Green Grams",
+      "src_file": "green_grams.xlsx",
+      "row": "2164",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Green Grams",
+      "src_file": "green_grams.xlsx",
+      "row": "2168",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Green Grams",
+      "src_file": "green_grams.xlsx",
+      "row": "2186",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Green Grams",
+      "src_file": "green_grams.xlsx",
+      "row": "2187",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Green Grams",
+      "src_file": "green_grams.xlsx",
+      "row": "2207",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Green Grams",
+      "src_file": "green_grams.xlsx",
+      "row": "2208",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Green Grams",
+      "src_file": "green_grams.xlsx",
+      "row": "2209",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Green Grams",
+      "src_file": "green_grams.xlsx",
+      "row": "2210",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Green Grams",
+      "src_file": "green_grams.xlsx",
+      "row": "2213",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Green Grams",
+      "src_file": "green_grams.xlsx",
+      "row": "2214",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Green Grams",
+      "src_file": "green_grams.xlsx",
+      "row": "2217",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Green Grams",
+      "src_file": "green_grams.xlsx",
+      "row": "2335",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Green Grams",
+      "src_file": "green_grams.xlsx",
+      "row": "2367",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Green Grams",
+      "src_file": "green_grams.xlsx",
+      "row": "2379",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Green Grams",
+      "src_file": "green_grams.xlsx",
+      "row": "2418",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Green Grams",
+      "src_file": "green_grams.xlsx",
+      "row": "2480",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Green Grams",
+      "src_file": "green_grams.xlsx",
+      "row": "2481",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Green Grams",
+      "src_file": "green_grams.xlsx",
+      "row": "2667",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Green Grams",
+      "src_file": "green_grams.xlsx",
+      "row": "2739",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Green Grams",
+      "src_file": "green_grams.xlsx",
+      "row": "2748",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Green Grams",
+      "src_file": "green_grams.xlsx",
+      "row": "2771",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Green Grams",
+      "src_file": "green_grams.xlsx",
+      "row": "2783",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Green Grams",
+      "src_file": "green_grams.xlsx",
+      "row": "2788",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Green Grams",
+      "src_file": "green_grams.xlsx",
+      "row": "2789",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Green Grams",
+      "src_file": "green_grams.xlsx",
+      "row": "2790",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Green Grams",
+      "src_file": "green_grams.xlsx",
+      "row": "2792",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Green Grams",
+      "src_file": "green_grams.xlsx",
+      "row": "2808",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Green Grams",
+      "src_file": "green_grams.xlsx",
+      "row": "2809",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Green Grams",
+      "src_file": "green_grams.xlsx",
+      "row": "2810",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Green Grams",
+      "src_file": "green_grams.xlsx",
+      "row": "2811",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Green Grams",
+      "src_file": "green_grams.xlsx",
+      "row": "2812",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Green Grams",
+      "src_file": "green_grams.xlsx",
+      "row": "2813",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Green Grams",
+      "src_file": "green_grams.xlsx",
+      "row": "2814",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Green Grams",
+      "src_file": "green_grams.xlsx",
+      "row": "2846",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Green Grams",
+      "src_file": "green_grams.xlsx",
+      "row": "2847",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Green Grams",
+      "src_file": "green_grams.xlsx",
+      "row": "2848",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Green Grams",
+      "src_file": "green_grams.xlsx",
+      "row": "2849",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Green Grams",
+      "src_file": "green_grams.xlsx",
+      "row": "2850",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Green Grams",
+      "src_file": "green_grams.xlsx",
+      "row": "2875",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Green Grams",
+      "src_file": "green_grams.xlsx",
+      "row": "2912",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Green Grams",
+      "src_file": "green_grams.xlsx",
+      "row": "3604",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Green Grams",
+      "src_file": "green_grams.xlsx",
+      "row": "3659",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Green Grams",
+      "src_file": "green_grams.xlsx",
+      "row": "3739",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Green Grams",
+      "src_file": "green_grams.xlsx",
+      "row": "3795",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Green Grams",
+      "src_file": "green_grams.xlsx",
+      "row": "3842",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Green Grams",
+      "src_file": "green_grams.xlsx",
+      "row": "3885",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Green Grams",
+      "src_file": "green_grams.xlsx",
+      "row": "3886",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Green Grams",
+      "src_file": "green_grams.xlsx",
+      "row": "3887",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Green Grams",
+      "src_file": "green_grams.xlsx",
+      "row": "3938",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Green Grams",
+      "src_file": "green_grams.xlsx",
+      "row": "3978",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Green Grams",
+      "src_file": "green_grams.xlsx",
+      "row": "4018",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Green Grams",
+      "src_file": "green_grams.xlsx",
+      "row": "4020",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Green Grams",
+      "src_file": "green_grams.xlsx",
+      "row": "4021",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Green Grams",
+      "src_file": "green_grams.xlsx",
+      "row": "4154",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Green Grams",
+      "src_file": "green_grams.xlsx",
+      "row": "4169",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Green Grams",
+      "src_file": "green_grams.xlsx",
+      "row": "4256",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Green Grams",
+      "src_file": "green_grams.xlsx",
+      "row": "4276",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Green Grams",
+      "src_file": "green_grams.xlsx",
+      "row": "4379",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Green Grams",
+      "src_file": "green_grams.xlsx",
+      "row": "4752",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Green Grams",
+      "src_file": "green_grams.xlsx",
+      "row": "4885",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Green Grams",
+      "src_file": "green_grams.xlsx",
+      "row": "5006",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Green Grams",
+      "src_file": "green_grams.xlsx",
+      "row": "5089",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Green Grams",
+      "src_file": "green_grams.xlsx",
+      "row": "5100",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Green Grams",
+      "src_file": "green_grams.xlsx",
+      "row": "5143",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Green Grams",
+      "src_file": "green_grams.xlsx",
+      "row": "5205",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Green Grams",
+      "src_file": "green_grams.xlsx",
+      "row": "5246",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Green Grams",
+      "src_file": "green_grams.xlsx",
+      "row": "5370",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Green Grams",
+      "src_file": "green_grams.xlsx",
+      "row": "5642",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Green Grams",
+      "src_file": "green_grams.xlsx",
+      "row": "5663",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Green Grams",
+      "src_file": "green_grams.xlsx",
+      "row": "5728",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Green Grams",
+      "src_file": "green_grams.xlsx",
+      "row": "5749",
+      "reason": "no_price",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Green Grams",
+      "src_file": "green_grams.xlsx",
+      "row": "5765",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Green Grams",
+      "src_file": "green_grams.xlsx",
+      "row": "5796",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Green Grams",
+      "src_file": "green_grams.xlsx",
+      "row": "5818",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Green Grams",
+      "src_file": "green_grams.xlsx",
+      "row": "5833",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Green Grams",
+      "src_file": "green_grams.xlsx",
+      "row": "5851",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Green Grams",
+      "src_file": "green_grams.xlsx",
+      "row": "5973",
+      "reason": "duplicate_row",
+      "action": "row_dropped",
+      "detail": ""
+    },
+    {
+      "product": "Green Grams",
+      "src_file": "green_grams.xlsx",
+      "row": "18",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "0.01 vs median 111.11"
+    },
+    {
+      "product": "Green Grams",
+      "src_file": "green_grams.xlsx",
+      "row": "323",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "10.0 vs median 111.11"
+    },
+    {
+      "product": "Green Grams",
+      "src_file": "green_grams.xlsx",
+      "row": "359",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "0.01 vs median 111.11"
+    },
+    {
+      "product": "Green Grams",
+      "src_file": "green_grams.xlsx",
+      "row": "389",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "14.0 vs median 111.11"
+    },
+    {
+      "product": "Green Grams",
+      "src_file": "green_grams.xlsx",
+      "row": "530",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "11.0 vs median 111.11"
+    },
+    {
+      "product": "Green Grams",
+      "src_file": "green_grams.xlsx",
+      "row": "778",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "2520.0 vs median 111.11"
+    },
+    {
+      "product": "Green Grams",
+      "src_file": "green_grams.xlsx",
+      "row": "1102",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "9800.0 vs median 111.11"
+    },
+    {
+      "product": "Green Grams",
+      "src_file": "green_grams.xlsx",
+      "row": "2530",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "12.22 vs median 111.11"
+    },
+    {
+      "product": "Green Grams",
+      "src_file": "green_grams.xlsx",
+      "row": "2685",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "9800.0 vs median 111.11"
+    },
+    {
+      "product": "Green Grams",
+      "src_file": "green_grams.xlsx",
+      "row": "2765",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "7.0 vs median 111.11"
+    },
+    {
+      "product": "Green Grams",
+      "src_file": "green_grams.xlsx",
+      "row": "2829",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "9.5 vs median 111.11"
+    },
+    {
+      "product": "Green Grams",
+      "src_file": "green_grams.xlsx",
+      "row": "2969",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "450.0 vs median 111.11"
+    },
+    {
+      "product": "Green Grams",
+      "src_file": "green_grams.xlsx",
+      "row": "3027",
+      "reason": "supply_outlier",
+      "action": "field_nulled",
+      "detail": "700000.0 vs typical 1400.0"
+    },
+    {
+      "product": "Green Grams",
+      "src_file": "green_grams.xlsx",
+      "row": "3217",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "13.89 vs median 111.11"
+    },
+    {
+      "product": "Green Grams",
+      "src_file": "green_grams.xlsx",
+      "row": "3385",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "1.0 vs median 111.11"
+    },
+    {
+      "product": "Green Grams",
+      "src_file": "green_grams.xlsx",
+      "row": "3386",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "1.0 vs median 111.11"
+    },
+    {
+      "product": "Green Grams",
+      "src_file": "green_grams.xlsx",
+      "row": "3391",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "1.0 vs median 111.11"
+    },
+    {
+      "product": "Green Grams",
+      "src_file": "green_grams.xlsx",
+      "row": "3673",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "15.56 vs median 111.11"
+    },
+    {
+      "product": "Green Grams",
+      "src_file": "green_grams.xlsx",
+      "row": "3888",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "1.8 vs median 111.11"
+    },
+    {
+      "product": "Green Grams",
+      "src_file": "green_grams.xlsx",
+      "row": "4324",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "8.89 vs median 111.11"
+    },
+    {
+      "product": "Green Grams",
+      "src_file": "green_grams.xlsx",
+      "row": "4440",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "944.44 vs median 111.11"
+    },
+    {
+      "product": "Green Grams",
+      "src_file": "green_grams.xlsx",
+      "row": "4657",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "16.0 vs median 111.11"
+    },
+    {
+      "product": "Green Grams",
+      "src_file": "green_grams.xlsx",
+      "row": "4719",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "10.0 vs median 111.11"
+    },
+    {
+      "product": "Green Grams",
+      "src_file": "green_grams.xlsx",
+      "row": "4731",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "1000.0 vs median 111.11"
+    },
+    {
+      "product": "Green Grams",
+      "src_file": "green_grams.xlsx",
+      "row": "4861",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "10.0 vs median 111.11"
+    },
+    {
+      "product": "Green Grams",
+      "src_file": "green_grams.xlsx",
+      "row": "4887",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "0.89 vs median 111.11"
+    },
+    {
+      "product": "Green Grams",
+      "src_file": "green_grams.xlsx",
+      "row": "4953",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "10.0 vs median 111.11"
+    },
+    {
+      "product": "Green Grams",
+      "src_file": "green_grams.xlsx",
+      "row": "5002",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "10.0 vs median 111.11"
+    },
+    {
+      "product": "Green Grams",
+      "src_file": "green_grams.xlsx",
+      "row": "5003",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "10.0 vs median 111.11"
+    },
+    {
+      "product": "Green Grams",
+      "src_file": "green_grams.xlsx",
+      "row": "5054",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "10.0 vs median 111.11"
+    },
+    {
+      "product": "Green Grams",
+      "src_file": "green_grams.xlsx",
+      "row": "5065",
+      "reason": "supply_outlier",
+      "action": "field_nulled",
+      "detail": "35600.0 vs typical 1400.0"
+    },
+    {
+      "product": "Green Grams",
+      "src_file": "green_grams.xlsx",
+      "row": "5083",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "10.0 vs median 111.11"
+    },
+    {
+      "product": "Green Grams",
+      "src_file": "green_grams.xlsx",
+      "row": "5084",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "10.0 vs median 111.11"
+    },
+    {
+      "product": "Green Grams",
+      "src_file": "green_grams.xlsx",
+      "row": "5087",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "14.44 vs median 111.11"
+    },
+    {
+      "product": "Green Grams",
+      "src_file": "green_grams.xlsx",
+      "row": "5123",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "4028.44 vs median 111.11"
+    },
+    {
+      "product": "Green Grams",
+      "src_file": "green_grams.xlsx",
+      "row": "5163",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "10.0 vs median 111.11"
+    },
+    {
+      "product": "Green Grams",
+      "src_file": "green_grams.xlsx",
+      "row": "5164",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "10.0 vs median 111.11"
+    },
+    {
+      "product": "Green Grams",
+      "src_file": "green_grams.xlsx",
+      "row": "5169",
+      "reason": "supply_outlier",
+      "action": "field_nulled",
+      "detail": "20000.0 vs typical 300.0"
+    },
+    {
+      "product": "Green Grams",
+      "src_file": "green_grams.xlsx",
+      "row": "5247",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "1751.0 vs median 111.11"
+    },
+    {
+      "product": "Green Grams",
+      "src_file": "green_grams.xlsx",
+      "row": "5346",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "1000.0 vs median 111.11"
+    },
+    {
+      "product": "Green Grams",
+      "src_file": "green_grams.xlsx",
+      "row": "5480",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "1.11 vs median 111.11"
+    },
+    {
+      "product": "Green Grams",
+      "src_file": "green_grams.xlsx",
+      "row": "5566",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "20.0 vs median 111.11"
+    },
+    {
+      "product": "Green Grams",
+      "src_file": "green_grams.xlsx",
+      "row": "5636",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "1200.0 vs median 111.11"
+    },
+    {
+      "product": "Green Grams",
+      "src_file": "green_grams.xlsx",
+      "row": "5804",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "20.0 vs median 111.11"
+    },
+    {
+      "product": "Green Grams",
+      "src_file": "green_grams.xlsx",
+      "row": "5870",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "10.0 vs median 111.11"
+    },
+    {
+      "product": "Green Grams",
+      "src_file": "green_grams.xlsx",
+      "row": "5874",
+      "reason": "price_outlier_vs_product_median",
+      "action": "row_dropped",
+      "detail": "10.0 vs median 111.11"
     }
   ]
 }
